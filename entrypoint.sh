@@ -1,6 +1,10 @@
 #!/bin/bash
 set -e
 
+# Install gems first
+echo "Installing gems..."
+bundle install
+
 # Remove a potentially pre-existing server.pid for Rails
 rm -f /app/tmp/pids/server.pid
 
