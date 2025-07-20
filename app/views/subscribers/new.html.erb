@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Subscribe - climber.blog</title>
+  <style>
+    body {
+      font-family: "Courier New", monospace;
+      background: #FFFFFF;
+      color: #666666;
+      margin: 0;
+      padding: 40px 20px;
+      line-height: 1.6;
+      font-size: 14px;
+    }
+    
+    .container {
+      max-width: 500px;
+      margin: 0 auto;
+    }
+    
+    .header {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    
+    .title {
+      font-size: 24px;
+      color: #333333;
+      margin-bottom: 10px;
+    }
+    
+    .subtitle {
+      font-size: 14px;
+      color: #999999;
+    }
+    
+    .nav {
+      margin: 30px 0;
+      text-align: center;
+    }
+    
+    .nav a {
+      color: #666666;
+      text-decoration: none;
+      margin: 0 15px;
+      font-size: 12px;
+    }
+    
+    .nav a:hover {
+      color: #333333;
+      text-decoration: underline;
+    }
+    
+    .form {
+      margin: 40px 0;
+    }
+    
+    .field {
+      margin: 20px 0;
+    }
+    
+    .field label {
+      display: block;
+      margin-bottom: 5px;
+      color: #333333;
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    
+    .field input, .field textarea {
+      width: 100%;
+      padding: 10px;
+      border: 1px solid #CCCCCC;
+      background: #FFFFFF;
+      color: #333333;
+      font-family: "Courier New", monospace;
+      font-size: 14px;
+      box-sizing: border-box;
+    }
+    
+    .field textarea {
+      height: 80px;
+      resize: vertical;
+    }
+    
+    .field input:focus, .field textarea:focus {
+      outline: none;
+      border-color: #666666;
+    }
+    
+    .submit {
+      margin: 30px 0;
+      text-align: center;
+    }
+    
+    .submit button {
+      padding: 12px 24px;
+      background: #FFFFFF;
+      color: #666666;
+      border: 1px solid #CCCCCC;
+      font-family: "Courier New", monospace;
+      font-size: 14px;
+      cursor: pointer;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    
+    .submit button:hover {
+      background: #F5F5F5;
+      color: #333333;
+    }
+    
+    .errors {
+      color: #CC0000;
+      font-size: 12px;
+      margin: 10px 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div class="title">Subscribe</div>
+      <div class="subtitle">climber.blog</div>
+    </div>
+    
+    <div class="nav">
+      <a href="/">home</a>
+      <a href="/posts">posts</a>
+      <a href="/about">about</a>
+    </div>
+    
+    <div class="form">
+      <%= form_with model: @subscriber, local: true do |form| %>
+        <% if @subscriber.errors.any? %>
+          <div class="errors">
+            <% @subscriber.errors.full_messages.each do |message| %>
+              <div><%= message %></div>
+            <% end %>
+          </div>
+        <% end %>
+        
+        <div class="field">
+          <%= form.label :name %>
+          <%= form.text_field :name, required: true %>
+        </div>
+        
+        <div class="field">
+          <%= form.label :email %>
+          <%= form.email_field :email, required: true %>
+        </div>
+        
+        <div class="field">
+          <%= form.label :about, "How do you know me? (optional)" %>
+          <%= form.text_area :about, placeholder: "Tell me how you know me or why you're interested in my blog..." %>
+        </div>
+        
+        <div class="submit">
+          <%= form.submit "Subscribe" %>
+        </div>
+      <% end %>
+    </div>
+  </div>
+</body>
+</html> 

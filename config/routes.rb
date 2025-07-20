@@ -15,6 +15,9 @@ Rails.application.routes.draw do
   # About page
   get "about", to: "pages#about"
   
+  # Subscribe page
+  get "subscribe", to: "subscribers#new"
+  
   # Blog routes
   resources :posts, only: [:index, :show]
   
