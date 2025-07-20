@@ -222,11 +222,22 @@
     <div class="email-signup">
       <h3>subscribe</h3>
       <p>get notified when new posts are published</p>
-      <form action="/subscribers" method="post">
-        <input type="email" name="email" placeholder="your email address" required>
-        <button type="submit">subscribe</button>
+      <form id="email-form">
+        <input type="email" id="email-input" name="email" placeholder="your email address" required>
+        <button type="button" onclick="goToSubscribe()">subscribe</button>
       </form>
     </div>
+    
+    <script>
+      function goToSubscribe() {
+        var email = document.getElementById('email-input').value;
+        if (email) {
+          window.location.href = '/subscribe?email=' + encodeURIComponent(email);
+        } else {
+          window.location.href = '/subscribe';
+        }
+      }
+    </script>
     
     <div class="footer">
       <p>built with rails and docker</p>

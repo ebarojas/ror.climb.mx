@@ -1,0 +1,15 @@
+---
+id: 401
+title: Angelica
+date: '2013-11-27T17:57:03+00:00'
+author: admin
+layout: revision
+guid: 'http://climb.mx/?p=401'
+permalink: /399-revision-2/
+---
+
+Ella es una niña en un tiempo indefinido, tiene 3 años de edad. Está sentada en la cocina de su casa, en su silla. No se puede mover, las sillas para bebes nunca te dejan mover, al menos así lo recordará.
+
+Ahí está su padre, sonriente y guapo. Sus ojos verdes brillan con el sol de la tarde. Le está dando de comer. El sol hace sombras en la mesa con las cortinas y los árboles, el viento sacude los árboles y las figuras cambian erráticamente. Hay alguien más. Esto lo recordará toda su vida. Está su madre, está su padre y hay alguien más, un extraño.
+
+El lector debe saber que su madre tiene un amante y nada más. El extraño está parado atrás de su padre y tiene algo en las manos, su madre está, pero no sabe donde. Tal vez en el piso de arriba, tal vez afuera, tal vez ahí junto a ella. Esto no lo recuerda tan bien. El extraño está en la sombra, no puede ver su cara pero en su mano tiene un cuchillo. Su padre ni siquiera grita, la sangre salpica todo, su silla, las sombras, su cara. Esto nunca lo olvidará, es el único recuerdo que tiene de su padre.

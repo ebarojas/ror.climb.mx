@@ -1,0 +1,19 @@
+---
+id: 473
+title: 'The Trip pt. 1'
+date: '2014-12-25T17:24:50+00:00'
+author: admin
+layout: revision
+guid: 'http://climb.mx/?p=473'
+permalink: /244-autosave-v1/
+---
+
+After a few days of “bullshitting” (ie: blogging) my way through life and lying to myself about the *epicness* of my future trip, I managed to actually leave my home with my new non-custom made non-hand built bike; an [’89 DiamondBack Ascent EX](http://www.retrobike.co.uk/gallery2/d/60222-2/Ascent+EX.jpg) bought for exactly 8 bags of peanuts. Indeed, my *vintage* rig [was bling](http://nextround.net/wp-content/uploads/2009/04/bling_bike.jpg), and updated with modern components I was quite happy to explore mexico’s darkest off roads.
+
+<figure class="wp-caption alignnone" style="width: 444px">![Of bikes & men](http://mxclimb.files.wordpress.com/2012/03/bike.jpg "Of bikes & men")<figcaption class="wp-caption-text">My tasteful vintage touring rig.</figcaption></figure>This time, the leaving part was not done alone (there´s a first time for everything), instead I left with a dear friend of mine: [Mario, with whom I have climbed](http://youtu.be/n3GdCnugMiY) for many years. He was to ride with me for the first five days, after which I would continue alone. Cycling with a friend is not as nice as you might think though (lots of waiting/decision making involved). However, *travelling* with a friend *is* much better than going at it alone, especially when you camp, sightsee or just hang out. Truth be told, the biking part is possibly worst, because unless you ride at exactly the same pace, either you’re waiting for someone or stressed of having to catch up with him; it’s the other things that really take a turn for the better. At the risk of sounding like a new age, pacifist hippie (which of course, I am) these things become really important when you’re alone for a long time.
+
+If [you’ve read this other post](http://climb.mx/2012/02/08/riding-the-highest-road-in-north-america/ "Riding the highest road in North America"), you can probably infer that the main purpose of the trip was to climb. And honoring this purpose, the climbing started almost right away; you pretty much *have* to climb to get out of Mexico city because it’s a valley. The first climb leads to Milpa Alta and eventually down to Amecameca, the last important town before entering the national park that hosts Iztaccíhuatl and Popocatépetl. It is a beautiful climb that many riders use to leave Mexico city and the ensuing descent is equally entertenaing, as it meanders through some very ancient country where maize has been grown for thousands of years.
+
+<figure class="wp-caption alignnone" style="width: 579px">![Milpa Alta](http://mxclimb.files.wordpress.com/2012/03/straw.jpg "Milpa Alta")<figcaption class="wp-caption-text">Looking down from the third “mirador”, the summit of the Milpa Alta col.</figcaption></figure><figure class="wp-caption alignnone" style="width: 579px">![Getting close to Amecameca](http://mxclimb.files.wordpress.com/2012/03/blur.jpg "Getting close to Amecameca")<figcaption class="wp-caption-text">Beautiful agricultural landscapes give way to mountains.</figcaption></figure>Having now really left the massive amorphous urban blob that we call D.F, the true adventure started as we snailed slowly through the landscape that I would come to childishly call home for the next month: the trans volcanic belt.
+
+<figure class="wp-caption alignnone" style="width: 436px">![The Popo](http://mxclimb.files.wordpress.com/2012/03/thepope.jpg "The Popo")<figcaption class="wp-caption-text">A partial eclipse of the heart.</figcaption></figure>Home sweet home: leaving that view behind, we knew we were headed for a nice trip and that maybe we were not underestimating the *epicness* of mexican off-roads, it’s amazing how re-assuring a nice view can be.

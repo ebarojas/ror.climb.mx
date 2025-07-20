@@ -25,10 +25,13 @@ class Post
   
   def self.find(slug)
     posts_dir = Rails.root.join('app', 'posts')
-    file_path = Dir.glob(File.join(posts_dir, "*#{slug}.md")).first
+    # Find all markdown files and check their slugs
+    Dir.glob(File.join(posts_dir, '*.md')).each do |file|
+      post = Post.from_file(file)
+      return post if post&.slug == slug
+    end
     
-    return nil unless file_path && File.exist?(file_path)
-    Post.from_file(file_path)
+    nil
   end
   
   def self.from_file(file_path)
@@ -40,7 +43,7 @@ class Post
       parts = content.split('---', 3)
       return nil if parts.length < 3
       
-      front_matter = YAML.safe_load(parts[1], permitted_classes: [Date])
+      front_matter = YAML.safe_load(parts[1], permitted_classes: [Date, Time])
       markdown_content = parts[2].strip
     else
       front_matter = {}
@@ -72,7 +75,8 @@ class Post
   end
   
   def formatted_date
-    date.strftime('%B %d, %Y')
+    date_obj = date.is_a?(String) ? Date.parse(date) : date.to_date
+    date_obj.strftime('%B %d, %Y')
   end
   
   def excerpt_or_content

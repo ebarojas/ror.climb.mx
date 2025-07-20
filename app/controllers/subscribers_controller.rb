@@ -1,6 +1,6 @@
 class SubscribersController < ApplicationController
   def new
-    @subscriber = Subscriber.new
+    @subscriber = Subscriber.new(email: params[:email])
   end
   
   def create
