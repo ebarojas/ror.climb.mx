@@ -16,3 +16,6 @@ Allow: /
 # Disallow admin areas
 Disallow: /admin/
 Disallow: /drafts/
+
+# Sitemap
+Sitemap: https://www.climb.mx/sitemap.xml
