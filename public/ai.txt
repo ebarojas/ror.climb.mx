@@ -1,0 +1,23 @@
+# AI.txt for climb.mx
+# This site contains personal blog posts about climbing, cycling, and life experiences
+
+# Site description
+This is a personal blog by Everardo covering topics like:
+- Climbing, cycling, coding and mountaineering experiences
+- Cycling adventures and bike touring
+- Book reviews and reading recommendations
+- Personal stories and reflections
+- Travel experiences in adventure travel
+- Survival
+
+# Content guidelines
+- Posts are philosophical experiences and opinions
+- Content includes both English, Nawatl and Spanish posts
+- Focus on outdoor activities, long distance cycling, survival, coding, travel, and personal growth
+- Some posts contain technical coding/climbing/cycling information
+
+# Contact
+For questions about this content, contact the site owner.
+
+# Last updated
+2025-07-31 
