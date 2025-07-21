@@ -6,4 +6,8 @@ class PagesController < ApplicationController
   def about
     # About page action
   end
+  
+  def contact
+    # Contact page action
+  end
 end 
