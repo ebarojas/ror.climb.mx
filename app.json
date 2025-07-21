@@ -1,0 +1,25 @@
+{
+  "name": "climb.mx",
+  "description": "A personal blog about things",
+  "repository": "https://github.com/ebarojas/ror.climb.mx",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["rails", "blog", "climbing"],
+  "addons": [
+    "heroku-postgresql"
+  ],
+  "env": {
+    "RAILS_ENV": {
+      "description": "Rails environment",
+      "value": "production"
+    },
+    "RAILS_LOG_TO_STDOUT": {
+      "description": "Log to stdout for Heroku",
+      "value": "true"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/ruby"
+    }
+  ]
+} 
