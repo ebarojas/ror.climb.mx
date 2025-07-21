@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>climber.blog</title>
+  <title>climb.mx</title>
   <style>
     body {
       font-family: "Courier New", monospace;
@@ -182,22 +182,17 @@
                                                                                       
     </div>
     
-    <div class="title">climber.blog</div>
-    
-    <div class="subtitle">
-      a minimal blog about climbing and web development
-    </div>
+    <div class="title">climb.mx</div>
     
     <div class="nav">
       <a href="/posts">posts</a>
       <a href="/about">about</a>
       <a href="/contact">contact</a>
-      <a href="/admin">admin</a>
     </div>
     
     <div class="content">
       <h2>recent posts</h2>
-      <p>Welcome to climber.blog, a minimalist space for thoughts on climbing, web development, and the intersection of both.</p>
+      <p>Hi, I'm Everardo, a high energy individual focused on creative product development, art and long distance cycling.</p>
       
       <% posts = Post.all.first(3) %>
       <% if posts.any? %>
@@ -208,23 +203,22 @@
         </ul>
       <% else %>
         <ul>
-          <li>coming soon: first ascent of the rails mountain</li>
-          <li>coming soon: bouldering through docker containers</li>
-          <li>coming soon: the art of clean code climbing</li>
+          <li>coming soon: Something is wrong, please let me know</li>
+          <li>coming soon: Blog posts should appear here</li>
         </ul>
       <% end %>
       
       <p style="margin-top: 30px; color: #999999; font-size: 12px;">
-        This blog is built with Ruby on Rails, styled with minimal CSS, and deployed with Docker.
+        This blog is FOSS and you can find the source code on <a href="https://github.com/everardo/ror.climb.mx">GitHub</a>.
       </p>
     </div>
     
     <div class="email-signup">
       <h3>subscribe</h3>
-      <p>get notified when new posts are published</p>
+      <p>want to get my writing in your inbox?</p>
       <form id="email-form">
-        <input type="email" id="email-input" name="email" placeholder="your email address" required>
-        <button type="button" onclick="goToSubscribe()">subscribe</button>
+        <input type="email" id="email-input" name="email" placeholder="correo@servidor.com.mx" required>
+        <button type="button" onclick="goToSubscribe()">go!</button>
       </form>
     </div>
     
@@ -240,8 +234,7 @@
     </script>
     
     <div class="footer">
-      <p>built with rails and docker</p>
-      <p>© 2024 climber.blog</p>
+      <p>© 2025 climb.mx</p>
     </div>
   </div>
 </body>
