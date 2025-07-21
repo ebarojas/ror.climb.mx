@@ -1,5 +1,5 @@
                                                                                       
-                                                                                       
+```                                                                             
             ,--,                      ____                           ____              
           ,--.'|     ,--,           ,'  , `.  ,---,                ,'  , `.            
           |  | :   ,--.'|        ,-+-,.' _ |,---.'|             ,-+-,.' _ |            
@@ -13,8 +13,8 @@
 |   :    :|  ,   / ;  :    ;|   ;/          |   :    /  .\ |   ;/         |   :/\  \ ; 
  \   \  /  ---`-'  |  ,   / '---'           /    \  /\  ; |'---'          `---'  `--`  
   `----'            ---`-'                  `-'----'  `--"                             
-                                    
-                                    
+```                                    
+
 # climb.mx blog and simple personal website
 
 A minimalist Rails blog application with a minimal web design aesthetic.
