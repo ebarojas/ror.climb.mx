@@ -9,65 +9,55 @@
 
 ### Quick Start
 1. Clone the repository
-2. Run the setup script:
+2. Start the application:
    ```bash
-   chmod +x setup.sh
-   ./setup.sh
+   docker compose up -d
    ```
+
+3. Install dependencies and setup database:
+   ```bash
+   docker compose exec web bundle install
+   docker compose exec web rails db:migrate
+   ```
+
+4. Visit http://localhost:3000
 
 ### Manual Setup
 If you prefer to set up manually:
 
-1. **Create Rails Application**
-   ```bash
-   docker run --rm -v $(pwd):/app -w /app ruby:3.2.2-alpine sh -c "
-       apk add --no-cache build-base postgresql-dev git bash &&
-       gem install rails &&
-       rails new . --database=postgresql --skip-test --skip-bundle --force
-   "
-   ```
-
-2. **Configure Environment**
-   ```bash
-   cp env.example .env
-   # Edit .env with your settings
-   ```
-
-3. **Build and Start**
+1. **Build and Start**
    ```bash
    docker compose build
    docker compose up -d
    ```
 
-4. **Setup Database**
+2. **Setup Database**
    ```bash
-   docker compose exec web rails db:create db:migrate db:seed
+   docker compose exec web rails db:migrate
    ```
 
 ## 📁 Application Structure
 
 ### Models
-- `Post`: Blog posts with title, content, slug, and publication date
-- `Subscriber`: Email subscribers for newsletters
+- `Post`: File-based blog posts using Jekyll-compatible markdown files
+- `Subscriber`: Email subscribers with name, email, about, and verification status
 
 ### Controllers
-- `PostsController`: Handle blog post display
+- `PostsController`: Handle blog post display from markdown files
 - `SubscribersController`: Handle email subscriptions
-- `PagesController`: Handle static pages (home, about, etc.)
-- `Admin::PostsController`: Admin interface for post management
+- `PagesController`: Handle static pages (home, about, contact)
 
 ### Views
-- `layouts/application.html.erb`: Main layout with 90s styling
-- `posts/`: Blog post views
+- `layouts/application.html.erb`: Main layout with minimal styling
+- `posts/`: Blog post views with markdown rendering
 - `subscribers/`: Subscription forms
-- `pages/`: Static page views
-- `admin/`: Admin interface views
+- `pages/`: Static page views (home, about, contact)
 
 ### Assets
-- `stylesheets/application.css`: Main stylesheet with 90s design
-- `javascripts/application.js`: Minimal JavaScript functionality
+- `stylesheets/application.css`: Main stylesheet with minimal design
+- `public/imgs/`: Static images for blog posts
 
-## 🎨 90s Design Implementation
+## 🎨 Minimal Design Implementation
 
 ### CSS Structure
 ```css
@@ -75,117 +65,83 @@ If you prefer to set up manually:
 body {
     font-family: "Courier New", monospace;
     background: #FFFFFF;
-    color: #000000;
+    color: #666666;
     margin: 0;
-    padding: 20px;
+    padding: 40px 20px;
+    line-height: 1.6;
+    font-size: 14px;
 }
 
 /* Navigation */
 .nav {
-    background: #000080;
-    color: #FFFFFF;
-    padding: 10px;
     text-align: center;
+    margin: 30px 0;
+}
+
+.nav a {
+    color: #666666;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 12px;
 }
 
 /* Content area */
 .container {
     max-width: 800px;
     margin: 0 auto;
-    background: #FFFFFF;
-    border: 2px solid #000080;
-    padding: 20px;
 }
 
-/* Buttons */
-.btn {
-    background: #000080;
-    color: #FFFFFF;
-    border: 2px outset #000080;
-    padding: 8px 16px;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-.btn:hover {
-    background: #0000FF;
-    border-style: inset;
+/* Forms */
+input, textarea {
+    font-family: "Courier New", monospace;
+    border: 1px solid #CCCCCC;
+    padding: 10px;
 }
 ```
 
-### Design Elements to Implement
-1. **Color Scheme**: Navy blue (#000080), red (#FF0000), lime green (#00FF00)
-2. **Typography**: Courier New for body text, Arial for headers
-3. **Layout**: Centered content with borders
-4. **Buttons**: 3D effect with outset/inset borders
-5. **Links**: Underlined with hover effects
-6. **Forms**: Simple styling with borders
+### Design Elements
+1. **Color Scheme**: Minimal grays (#666666, #CCCCCC, #FFFFFF)
+2. **Typography**: Courier New monospace throughout
+3. **Layout**: Centered content with clean spacing
+4. **Forms**: Simple styling with minimal borders
+5. **Links**: Clean with subtle hover effects
 
 ## 🔧 Database Schema
 
-### Posts Migration
-```ruby
-class CreatePosts < ActiveRecord::Migration[7.1]
-  def change
-    create_table :posts do |t|
-      t.string :title, null: false
-      t.text :content
-      t.string :slug, null: false, unique: true
-      t.datetime :published_at
-      t.timestamps
-    end
-    
-    add_index :posts, :slug, unique: true
-    add_index :posts, :published_at
-  end
-end
+### Posts (File-based)
+Posts are stored as Jekyll-compatible markdown files in `app/posts/`:
+```markdown
+---
+layout: post
+title: "Post Title"
+date: 2024-01-15
+author: "Everardo"
+categories: [rails, climbing]
+tags: [ruby, web-development]
+excerpt: "Post excerpt"
+---
+
+# Post Content
+
+Markdown content here...
 ```
 
 ### Subscribers Migration
 ```ruby
-class CreateSubscribers < ActiveRecord::Migration[7.1]
+class CreateSubscribers < ActiveRecord::Migration[8.0]
   def change
     create_table :subscribers do |t|
-      t.string :email, null: false, unique: true
-      t.boolean :confirmed, default: false
-      t.string :confirmation_token
+      t.string :email, null: false
+      t.string :name, null: false, limit: 100
+      t.text :about, limit: 280
+      t.boolean :verified, null: false, default: false
       t.timestamps
     end
     
-    add_index :subscribers, :email, unique: true
-    add_index :subscribers, :confirmation_token
+    add_index :subscribers, :email
   end
 end
 ```
-
-## 🚀 Feature Implementation
-
-### 1. Blog Posts
-- [ ] Create Post model with validations
-- [ ] Implement PostsController with index/show actions
-- [ ] Create views with 90s styling
-- [ ] Add slug generation for SEO-friendly URLs
-- [ ] Implement admin interface for post management
-
-### 2. Email Collection
-- [ ] Create Subscriber model with email validation
-- [ ] Implement subscription form with 90s styling
-- [ ] Add email confirmation functionality
-- [ ] Create admin interface for subscriber management
-- [ ] Implement unsubscribe functionality
-
-### 3. Admin Interface
-- [ ] Create admin layout with 90s styling
-- [ ] Implement post CRUD operations
-- [ ] Add subscriber management
-- [ ] Create dashboard with statistics
-
-### 4. 90s Design Features
-- [ ] Implement retro color scheme
-- [ ] Add 3D button effects
-- [ ] Create nostalgic typography
-- [ ] Add simple animations
-- [ ] Implement responsive design with 90s twist
 
 ## 🧪 Testing
 
@@ -239,21 +195,38 @@ docker compose exec db psql -U postgres -d blog_app
 
 ## 📦 Deployment
 
-### Production Build
+### Heroku Deployment
 ```bash
-# Build production image
-docker compose -f docker-compose.prod.yml build
+# Create Heroku app
+heroku create your-app-name
 
-# Deploy to production
-docker compose -f docker-compose.prod.yml up -d
+# Add PostgreSQL
+heroku addons:create heroku-postgresql
+
+# Set buildpack
+heroku buildpacks:set heroku/ruby
+
+# Deploy
+git push heroku main
+
+# Run migrations
+heroku run rails db:migrate
 ```
 
 ### Environment Variables
-Set these in production:
+Heroku automatically sets:
 - `RAILS_ENV=production`
-- `SECRET_KEY_BASE=your-secret-key`
-- `DATABASE_URL=your-production-db-url`
-- `POSTGRES_PASSWORD=your-secure-password`
+- `DATABASE_URL` (from PostgreSQL addon)
+- `RAILS_LOG_TO_STDOUT=true`
+
+### Manual Setup (if needed)
+```bash
+# Add Ruby version to Gemfile
+ruby "3.2.2"
+
+# Add platform for Heroku
+docker compose exec web bundle lock --add-platform x86_64-linux
+```
 
 ## 🎯 Best Practices
 
@@ -281,13 +254,18 @@ Set these in production:
 ### Daily Development
 1. Start services: `docker compose up -d`
 2. Make changes to code
-3. Test changes: `docker compose exec web rails test`
-4. View changes at http://localhost:3000
-5. Commit changes with descriptive messages
+3. View changes at http://localhost:3000
+4. Commit changes with descriptive messages
+
+### Adding New Blog Posts
+1. Create markdown file in `app/posts/` with format: `YYYY-MM-DD-title.md`
+2. Add Jekyll front matter with title, date, author, etc.
+3. Write content in markdown
+4. Add images to `public/imgs/` and reference as `/imgs/filename.jpg`
 
 ### Adding New Features
 1. Create feature branch: `git checkout -b feature/new-feature`
-2. Implement feature with tests
+2. Implement feature
 3. Update documentation
 4. Create pull request
 5. Review and merge
@@ -298,9 +276,13 @@ Set these in production:
 - [Rails Guides](https://guides.rubyonrails.org/)
 - [Rails API Documentation](https://api.rubyonrails.org/)
 
-### 90s Web Design
-- [Web Design Museum](https://www.webdesignmuseum.org/)
-- [90s Web Design Inspiration](https://www.awwwards.com/websites/90s/)
+### Markdown & Jekyll
+- [Jekyll Documentation](https://jekyllrb.com/docs/)
+- [Markdown Guide](https://www.markdownguide.org/)
+
+### Heroku
+- [Heroku Rails Documentation](https://devcenter.heroku.com/categories/ruby-support)
+- [Heroku PostgreSQL](https://devcenter.heroku.com/articles/heroku-postgresql)
 
 ### Docker
 - [Docker Documentation](https://docs.docker.com/)
