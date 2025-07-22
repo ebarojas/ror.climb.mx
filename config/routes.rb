@@ -11,26 +11,26 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
   root "pages#home"
-  
+
   # About page
   get "about", to: "pages#about"
-  
+
   # Subscribe page
   get "subscribe", to: "subscribers#new"
-  
+
   # Contact page
   get "contact", to: "pages#contact"
-  
+
   # Blog routes
-  resources :posts, only: [:index, :show]
-  
+  resources :posts, only: [ :index, :show ]
+
   # Subscriber routes
-  resources :subscribers, only: [:create]
+  resources :subscribers, only: [ :create ]
   get "subscribers/confirm/:token", to: "subscribers#confirm", as: :confirm_subscriber
-  
+
   # Admin routes
   namespace :admin do
     resources :posts
-    resources :subscribers, only: [:index, :destroy]
+    resources :subscribers, only: [ :index, :destroy ]
   end
 end

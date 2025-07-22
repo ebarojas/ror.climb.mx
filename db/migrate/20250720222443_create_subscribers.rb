@@ -8,7 +8,7 @@ class CreateSubscribers < ActiveRecord::Migration[8.0]
 
       t.timestamps
     end
-    
+
     add_index :subscribers, :email
   end
 end
