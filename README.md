@@ -15,9 +15,10 @@
   `----'            ---`-'                  `-'----'  `--"                             
 ```                                    
 
-# climb.mx blog and simple personal website
+# climb.mx blog a simple personal website
 
-A minimalist Rails blog application with a minimal web design aesthetic.
+A minimalist Rails blog application with a minimal web design aesthetic, designed to get you writing 
+and collecting emails from your readers so you can push your updates to them via email or similar.
 
 ## 🎨 Design Philosophy
 
