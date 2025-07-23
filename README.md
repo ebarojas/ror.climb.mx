@@ -67,30 +67,79 @@ This blog embraces the raw, authentic feel of early web design:
 ## 📁 Project Structure
 
 ```
-blog_app/
+ror.climb.mx/
 ├── app/
 │   ├── controllers/
+│   │   ├── application_controller.rb
+│   │   ├── pages_controller.rb
 │   │   ├── posts_controller.rb
-│   │   ├── subscribers_controller.rb
-│   │   └── pages_controller.rb
+│   │   └── subscribers_controller.rb
 │   ├── models/
+│   │   ├── application_record.rb
 │   │   ├── post.rb
 │   │   └── subscriber.rb
 │   ├── views/
 │   │   ├── layouts/
+│   │   │   ├── application.html.erb
+│   │   │   ├── mailer.html.erb
+│   │   │   └── mailer.text.erb
+│   │   ├── pages/
+│   │   │   ├── about.html.erb
+│   │   │   ├── contact.html.erb
+│   │   │   └── home.html.erb
 │   │   ├── posts/
+│   │   │   ├── index.html.erb
+│   │   │   └── show.html.erb
 │   │   ├── subscribers/
-│   │   └── pages/
-│   └── assets/
-│       ├── stylesheets/
-│       └── javascripts/
+│   │   │   └── new.html.erb
+│   │   └── pwa/
+│   │       ├── manifest.json.erb
+│   │       └── service-worker.js
+│   ├── assets/
+│   │   ├── images/
+│   │   └── stylesheets/
+│   │       └── application.css
+│   ├── posts/                    # Markdown blog posts (Jekyll-style)
+│   │   ├── 2025-01-31-Books-I-read-in-2024.md
+│   │   ├── 2024-04-08-Climbing-Rope-Mat.md
+│   │   └── ... (other .md files)
+│   ├── drafts/                   # Draft posts
+│   ├── helpers/
+│   ├── jobs/
+│   └── mailers/
+├── config/
+│   ├── application.rb
+│   ├── routes.rb
+│   ├── database.yml
+│   ├── environments/
+│   ├── initializers/
+│   └── locales/
 ├── db/
 │   ├── migrate/
+│   ├── schema.rb
 │   └── seeds.rb
-├── config/
+├── public/
+│   ├── imgs/                     # Blog post images
+│   ├── robots.txt
+│   ├── sitemap.xml
+│   ├── ai.txt
+│   ├── 404.html
+│   └── favicon files
+├── .github/
+│   └── workflows/
+│       └── ci.yml
+├── bin/                          # Rails binstubs
+├── lib/
+├── log/
+├── storage/
+├── tmp/
+├── vendor/
 ├── Dockerfile
 ├── docker-compose.yml
-└── README.md
+├── docker-compose.prod.yml
+├── Gemfile
+├── README.md
+└── DEVELOPMENT.md
 ```
 
 ## 🗄 Database Schema
