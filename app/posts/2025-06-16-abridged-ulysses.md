@@ -11,7 +11,7 @@ permalink: /ulysses/
 
 This is an abridged version of James Joyce's Ulysses, showing only the dialog and the basic chapter setting. I have not edited this heavily, the content here has been extracted from Gutenberg Project's txt file with a python script and is used within the limits of the license provided in that text.
 
-## Table of Contents
+## Chapters
 
 - [Chapter 1 - Telemachus](#chapter-1-telemachus)
 - [Chapter 2 - Nestor](#chapter-2-nestor)
@@ -36,7 +36,7 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 
 ## Chapter 1 - Telemachus
 
-[↑ Back to ToC](#table-of-contents)
+[↑ Back to Chapters](#chapters)
 
 **Setting:** Stately, plump Buck Mulligan came from the stairhead, bearing a bowl of lather on which a mirror and a razor lay crossed. A yellow dressinggown, ungirdled, was sustained gently behind him on the mild morning air. He held the bowl aloft and intoned.
 
@@ -214,7 +214,7 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 
 ## Chapter 2 - Nestor
 
-[↑ Back to ToC](#table-of-contents)
+[↑ Back to Chapters](#chapters)
 
 **Setting:** A classroom where Stephen teaches his students about history. The boy's blank face asked the blank window. Fabled by the daughters of memory. And yet it was in some way if not as memory fabled it.
 
@@ -345,7 +345,7 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 
 ## Chapter 3 - Proteus
 
-[↑ Back to ToC](#table-of-contents)
+[↑ Back to Chapters](#chapters)
 
 **Setting:** Sandymount strand. Stephen walks along the beach, thinking philosophical thoughts. "Ineluctable modality of the visible: at least that if no more, thought through my eyes. Signatures of all things I am here to read, seaspawn and seawrack, the nearing tide, that rusty boot."
 
@@ -369,7 +369,7 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 
 ## Chapter 4 - Calypso
 
-[↑ Back to ToC](#table-of-contents)
+[↑ Back to Chapters](#chapters)
 
 **Setting:** Leopold Bloom's house at 7 Eccles Street in the morning. Mr Leopold Bloom ate with relish the inner organs of beasts and fowls.
 
@@ -436,7 +436,7 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 
 ## Chapter 5 - Lotus Eaters
 
-[↑ Back to ToC](#table-of-contents)
+[↑ Back to Chapters](#chapters)
 
 **Setting:** Bloom's morning wanderings through Dublin streets.
 
@@ -497,7 +497,7 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 
 ## Chapter 6 - Hades
 
-[↑ Back to ToC](#table-of-contents)
+[↑ Back to Chapters](#chapters)
 
 **Setting:** The funeral carriage ride to Glasnevin Cemetery for Paddy Dignam's burial.
 
@@ -704,7 +704,7 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 
 ## Chapter 7 - Aeolus  
 
-[↑ Back to ToC](#table-of-contents)  
+[↑ Back to Chapters](#chapters)  
 
 **Setting:** The newspaper office of the Freeman's Journal.
 
@@ -983,7 +983,7 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 
 ## Chapter 8 - Lestrygonians
 
-[↑ Back to ToC](#table-of-contents)
+[↑ Back to Chapters](#chapters)
 
 **Setting:** Bloom's lunchtime wanderings through Dublin, seeking food.
 
@@ -1137,7 +1137,7 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 
 ## Chapter 9 - Scylla and Charybdis
 
-[↑ Back to ToC](#table-of-contents)
+[↑ Back to Chapters](#chapters)
 
 **Setting:** The National Library, where Stephen discusses his theory about Shakespeare.
 
@@ -1371,7 +1371,7 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 
 ## Chapter 10 - Wandering Rocks
 
-[↑ Back to ToC](#table-of-contents)
+[↑ Back to Chapters](#chapters)
 
 **Setting:** Various locations across Dublin as different characters move through the city.
 
@@ -1604,7 +1604,7 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 
 ## Chapter 11 - Sirens
 
-[↑ Back to ToC](#table-of-contents)
+[↑ Back to Chapters](#chapters)
 
 **Setting:** The Ormond Hotel bar where Bloom dines while listening to music.
 
@@ -1812,7 +1812,7 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 
 ## Chapter 12 - Cyclops
 
-[↑ Back to ToC](#table-of-contents)
+[↑ Back to Chapters](#chapters)
 
 **Setting:** Barney Kiernan's pub, narrated by an unnamed citizen.
 
@@ -2118,7 +2118,7 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 
 ## Chapter 13 - Nausicaa
 
-[↑ Back to ToC](#table-of-contents)
+[↑ Back to Chapters](#chapters)
 
 **Setting:** Sandymount strand in the evening, focusing on Gerty MacDowell and Bloom.
 
@@ -2157,7 +2157,7 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 
 ## Chapter 14 - Oxen of the Sun
 
-[↑ Back to ToC](#table-of-contents)
+[↑ Back to Chapters](#chapters)
 
 **Setting:** The maternity hospital where medical students carouse while a woman gives birth.
 
@@ -2196,7 +2196,7 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 
 ## Chapter 15 - Circe
 
-[↑ Back to ToC](#table-of-contents)
+[↑ Back to Chapters](#chapters)
 
 **Setting:** The brothel district of Dublin, with hallucinatory and theatrical elements.
 
@@ -2295,7 +2295,7 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 
 ## Chapter 16 - Eumaeus
 
-[↑ Back to ToC](#table-of-contents)
+[↑ Back to Chapters](#chapters)
 
 **Setting:** The cabman's shelter near the docks, late at night.
 
@@ -2450,7 +2450,7 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 
 ## Chapter 17 - Ithaca
 
-[↑ Back to ToC](#table-of-contents)
+[↑ Back to Chapters](#chapters)
 
 **Setting:** Bloom's house at 7 Eccles Street, where he brings Stephen for cocoa.
 
@@ -2463,7 +2463,7 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 
 ## Chapter 18 - Penelope
 
-[↑ Back to ToC](#table-of-contents)
+[↑ Back to Chapters](#chapters)
 
 **Setting:** Molly Bloom's bed, as she lies awake with her thoughts.
 
