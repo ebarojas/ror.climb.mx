@@ -1,11 +1,11 @@
---
+---
 layout: post
 title:  "An Abridged James Joyce Ulysses"
 date:   2025-06-16 08:06:17 +0000
 categories: Ulysses, abrdiged, James Joyce
 description: Dialogue and setting extracts from Ulysses
 permalink: /ulysses/
---
+---
 
 # James Joyce's Ulysses, down to only dialogue and setting
 
