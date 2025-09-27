@@ -11,7 +11,32 @@ permalink: /ulysses/
 
 This is an abridged version of James Joyce's Ulysses, showing only the dialog and the basic chapter setting. I have not edited this heavily, the content here has been extracted from Gutenberg Project's txt file with a python script and is used within the limits of the license provided in that text.
 
+## Table of Contents
+
+- [Chapter 1 - Telemachus](#chapter-1---telemachus) - [↑ Back to ToC](#table-of-contents)
+- [Chapter 2 - Nestor](#chapter-2---nestor) - [↑ Back to ToC](#table-of-contents)
+- [Chapter 3 - Proteus](#chapter-3---proteus) - [↑ Back to ToC](#table-of-contents)
+- [Chapter 4 - Calypso](#chapter-4---calypso) - [↑ Back to ToC](#table-of-contents)
+- [Chapter 5 - Lotus Eaters](#chapter-5---lotus-eaters) - [↑ Back to ToC](#table-of-contents)
+- [Chapter 6 - Hades](#chapter-6---hades) - [↑ Back to ToC](#table-of-contents)
+- [Chapter 7 - Aeolus](#chapter-7---aeolus) - [↑ Back to ToC](#table-of-contents)
+- [Chapter 8 - Lestrygonians](#chapter-8---lestrygonians) - [↑ Back to ToC](#table-of-contents)
+- [Chapter 9 - Scylla and Charybdis](#chapter-9---scylla-and-charybdis) - [↑ Back to ToC](#table-of-contents)
+- [Chapter 10 - Wandering Rocks](#chapter-10---wandering-rocks) - [↑ Back to ToC](#table-of-contents)
+- [Chapter 11 - Sirens](#chapter-11---sirens) - [↑ Back to ToC](#table-of-contents)
+- [Chapter 12 - Cyclops](#chapter-12---cyclops) - [↑ Back to ToC](#table-of-contents)
+- [Chapter 13 - Nausicaa](#chapter-13---nausicaa) - [↑ Back to ToC](#table-of-contents)
+- [Chapter 14 - Oxen of the Sun](#chapter-14---oxen-of-the-sun) - [↑ Back to ToC](#table-of-contents)
+- [Chapter 15 - Circe](#chapter-15---circe) - [↑ Back to ToC](#table-of-contents)
+- [Chapter 16 - Eumaeus](#chapter-16---eumaeus) - [↑ Back to ToC](#table-of-contents)
+- [Chapter 17 - Ithaca](#chapter-17---ithaca) - [↑ Back to ToC](#table-of-contents)
+- [Chapter 18 - Penelope](#chapter-18---penelope) - [↑ Back to ToC](#table-of-contents)
+
+---
+
 ## Chapter 1 - Telemachus
+
+[↑ Back to ToC](#table-of-contents)
 
 **Setting:** Stately, plump Buck Mulligan came from the stairhead, bearing a bowl of lather on which a mirror and a razor lay crossed. A yellow dressinggown, ungirdled, was sustained gently behind him on the mild morning air. He held the bowl aloft and intoned.
 
@@ -189,6 +214,8 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 
 ## Chapter 2 - Nestor
 
+[↑ Back to ToC](#table-of-contents)
+
 **Setting:** A classroom where Stephen teaches his students about history. The boy's blank face asked the blank window. Fabled by the daughters of memory. And yet it was in some way if not as memory fabled it.
 
 **Dialogue:**
@@ -318,6 +345,8 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 
 ## Chapter 3 - Proteus
 
+[↑ Back to ToC](#table-of-contents)
+
 **Setting:** Sandymount strand. Stephen walks along the beach, thinking philosophical thoughts. "Ineluctable modality of the visible: at least that if no more, thought through my eyes. Signatures of all things I am here to read, seaspawn and seawrack, the nearing tide, that rusty boot."
 
 **Dialogue:**
@@ -339,6 +368,8 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 - Voice: "Tatters! Out of that, you mongrel!"
 
 ## Chapter 4 - Calypso
+
+[↑ Back to ToC](#table-of-contents)
 
 **Setting:** Leopold Bloom's house at 7 Eccles Street in the morning. Mr Leopold Bloom ate with relish the inner organs of beasts and fowls.
 
@@ -405,6 +436,8 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 
 ## Chapter 5 - Lotus Eaters
 
+[↑ Back to ToC](#table-of-contents)
+
 **Setting:** Bloom's morning wanderings through Dublin streets.
 
 **Dialogue:**
@@ -463,6 +496,8 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 - Bantam Lyons: "I'll risk it, he said. Here, thanks."
 
 ## Chapter 6 - Hades
+
+[↑ Back to ToC](#table-of-contents)
 
 **Setting:** The funeral carriage ride to Glasnevin Cemetery for Paddy Dignam's burial.
 
@@ -668,6 +703,8 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 - John Henry Menton: "Thank you, shortly."
 
 ## Chapter 7 - Aeolus  
+
+[↑ Back to ToC](#table-of-contents)  
 
 **Setting:** The newspaper office of the Freeman's Journal.
 
@@ -946,6 +983,8 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 
 ## Chapter 8 - Lestrygonians
 
+[↑ Back to ToC](#table-of-contents)
+
 **Setting:** Bloom's lunchtime wanderings through Dublin, seeking food.
 
 **Dialogue:**
@@ -1097,6 +1136,8 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 - Bloom: "Right now? First turn to the left."
 
 ## Chapter 9 - Scylla and Charybdis
+
+[↑ Back to ToC](#table-of-contents)
 
 **Setting:** The National Library, where Stephen discusses his theory about Shakespeare.
 
@@ -1330,6 +1371,8 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 
 ## Chapter 10 - Wandering Rocks
 
+[↑ Back to ToC](#table-of-contents)
+
 **Setting:** Various locations across Dublin as different characters move through the city.
 
 **Dialogue:**
@@ -1561,6 +1604,8 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 
 ## Chapter 11 - Sirens
 
+[↑ Back to ToC](#table-of-contents)
+
 **Setting:** The Ormond Hotel bar where Bloom dines while listening to music.
 
 **Dialogue:**
@@ -1766,6 +1811,8 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 - Ben Dollard: "Will lift your glass with us."
 
 ## Chapter 12 - Cyclops
+
+[↑ Back to ToC](#table-of-contents)
 
 **Setting:** Barney Kiernan's pub, narrated by an unnamed citizen.
 
@@ -2071,6 +2118,8 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 
 ## Chapter 13 - Nausicaa
 
+[↑ Back to ToC](#table-of-contents)
+
 **Setting:** Sandymount strand in the evening, focusing on Gerty MacDowell and Bloom.
 
 **Dialogue:**
@@ -2108,6 +2157,8 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 
 ## Chapter 14 - Oxen of the Sun
 
+[↑ Back to ToC](#table-of-contents)
+
 **Setting:** The maternity hospital where medical students carouse while a woman gives birth.
 
 **Dialogue:**
@@ -2144,6 +2195,8 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 - Stephen: "Deine Kuh Trübsal melkest Du. Nun Trinkst Du die süsse Milch des Euters. See! it displodes for thee in abundance. Drink, man, an udderful! Mother's milk, Purefoy, the milk of human kin, milk too of those burgeoning stars overhead rutilant in thin rainvapour, punch milk, such as those rioters will quaff in their guzzling den, milk of madness, the honeymilk of Canaan's land. Thy cow's dug was tough, what? Ay, but her milk is hot and sweet and fattening. No dollop this but thick rich bonnyclaber. To her, old patriarch! Pap! Per deam Partulam et Pertundam nunc est bibendum!"
 
 ## Chapter 15 - Circe
+
+[↑ Back to ToC](#table-of-contents)
 
 **Setting:** The brothel district of Dublin, with hallucinatory and theatrical elements.
 
@@ -2241,6 +2294,8 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 - DISTANT VOICES: "Dublin's burning! Dublin's burning! On fire, on fire!"
 
 ## Chapter 16 - Eumaeus
+
+[↑ Back to ToC](#table-of-contents)
 
 **Setting:** The cabman's shelter near the docks, late at night.
 
@@ -2395,6 +2450,8 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 
 ## Chapter 17 - Ithaca
 
+[↑ Back to ToC](#table-of-contents)
+
 **Setting:** Bloom's house at 7 Eccles Street, where he brings Stephen for cocoa.
 
 **Dialogue:**
@@ -2405,6 +2462,8 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 - Answer: "The irreparability of the past: once at a performance of Albert Hengler's circus..."
 
 ## Chapter 18 - Penelope
+
+[↑ Back to ToC](#table-of-contents)
 
 **Setting:** Molly Bloom's bed, as she lies awake with her thoughts.
 
