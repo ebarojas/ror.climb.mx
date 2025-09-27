@@ -2113,9 +2113,33 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 **Dialogue:**
 
 - Buck Mulligan: "Send us bright one, light one, Horhorn, quickening and wombfruit."
+- Stephen: "Murmur, sirs, is eke oft among lay folk. Both babe and parent now glorify their Maker, the one in limbo gloom, the other in purgefire. But, gramercy, what of those Godpossibled souls that we nightly impossibilise, which is the sin against the Holy Ghost, Very God, Lord and Giver of Life? For, sirs, he said, our lust is brief. We are means to those small creatures within us and nature has other ends than we."
+- Dixon: "Wist he what ends."
+- Crotthers: "Young Malachi's praise of that beast the unicorn how once in the millennium he cometh by his horn."
+- Stephen: "Of mother Church that would cast him out of her bosom, of law of canons, of Lilith, patron of abortions, of bigness wrought by wind of seeds of brightness or by potency of vampires mouth to mouth or, as Virgilius saith, by the influence of the occident or by the reek of moonflower or an she lie with a woman which her man has but lain with, effectu secuto, or peradventure in her bath according to the opinions of Averroes and Moses Maimonides. He said also how at the end of the second month a human soul was infused and how in all our holy mother foldeth ever souls for God's greater glory whereas that earthly mother which was but a dam to bear beastly should die by canon for so saith he that holdeth the fisherman's seal, even that blessed Peter on which rock was holy church for all ages founded."
+- Dixon: "That is truth, pardy, and, or I err, a pregnant word."
+- Stephen: "He who stealeth from the poor lendeth to the Lord for he was of a wild manner when he was drunken and that he was now in that taking it appeared eftsoons."
+- Bloom: "As it was informed him, who had ever loved the art of physic as might a layman, and agreeing also with his experience of so seldomseen an accident it was good for that mother Church belike at one blow had birth and death pence and in such sort deliverly he scaped their questions."
 - Stephen: "Burke's! Outflings my lord Stephen, giving the cry, and a tag and bobtail of all them after."
 - Lynch: "By no manner of means would he though he must nor would he make more shows according as men do with wives which Phenomenon has commanded them to do by the book Law."
 - Dixon: "Young hopeful will be christened Mortimer Edward after the influential third cousin of Mr Purefoy."
+- Punch Costello: "The first three months she was not well, Staboo."
+- Nurse Quigley: "Hist ye should shame you nor was it not meet as she remembered them being her mind was to have all orderly against lord Andrew came for because she was jealous that no gasteful turmoil might shorten the honour of her guard."
+- Bloom: "The flower of quiet, margerain gentle, advising also the time's occasion as most sacred and most worthy to be most sacred. In Horne's house rest should reign."
+- Dixon: "What was the reason why he had not cided to take friar's vows?"
+- Stephen: "Obedience in the womb, chastity in the tomb but involuntary poverty all his days."
+- Lenehan: "He had heard of those nefarious deeds and how, as he heard hereof counted, he had besmirched the lily virtue of a confiding female which was corruption of minors."
+- Stephen: "It was clean contrary to their suppose for he was the eternal son and ever virgin."
+- Stephen: "To bed, to bed was the burden of it to be played with accompanable concent upon the virginals. An exquisite dulcet epithalame of most mollificative suadency for juveniles amatory whom the odoriferous flambeaus of the paranymphs have escorted to the quadrupedal proscenium of connubial communion."
+- Dixon: "Well met they were, joyed, but, harkee, young sir, better were they named Beau Mount and Lecher for, by my troth, of such a mingling much might come."
+- Stephen: "Indeed to his best remembrance they had but the one doxy between them and she of the stews to make shift with in delights amorous for life ran very high in those days and the custom of the country approved."
+- Lynch: "Have a care to flout and witwanton as the god self was angered for his hellprate and paganry."
+- Punch Costello: "An old Nobodaddy was in his cups it was muchwhat indifferent and he would not lag behind his lead."
+- Madden: "Knocked him on his ribs upon that crack of doom."
+- Bloom: "It was no other thing but a hubbub noise that he heard, the discharge of fluid from the thunderhead, look you, having taken place, and all of the order of a natural phenomenon."
+- Stephen: "He was in the land of Phenomenon where he must for a certain one day die as he was like the rest too a passing show. And would he not accept to die like the rest and pass away? By no means would he though he must nor would he make more shows according as men do with wives which Phenomenon has commanded them to do by the book Law."
+- Stephen: "That other land which is called Believe-on-Me, that is the land of promise which behoves to the king Delightful and shall be for ever where there is no death and no birth neither wiving nor mothering at which all shall come as many as believe on it."
+- Bird-in-the-Hand: "Ho, you pretty man, turn aside hither and I will show you a brave place."
 
 ## Chapter 15 - Circe
 
