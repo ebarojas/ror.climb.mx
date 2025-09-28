@@ -1,0 +1,57 @@
+#!/bin/bash
+
+# Check if title is provided
+if [ $# -eq 0 ]; then
+    echo "Usage: $0 \"Post Title\""
+    echo "Example: $0 \"My Amazing Post\""
+    exit 1
+fi
+
+# Get the title from command line argument
+TITLE="$1"
+
+# Get current date in YYYY-MM-DD format
+DATE=$(date +"%Y-%m-%d")
+
+# Get current date and time for YAML date field
+DATETIME=$(date +"%Y-%m-%d %H:%M:%S +0000")
+
+# Convert title to filename format (spaces to dashes, lowercase)
+FILENAME=$(echo "$TITLE" | tr '[:upper:]' '[:lower:]' | sed 's/ /-/g' | sed 's/[^a-z0-9-]//g')
+
+# Convert title to permalink format (spaces to underscores, lowercase)
+PERMALINK=$(echo "$TITLE" | tr '[:upper:]' '[:lower:]' | sed 's/ /_/g' | sed 's/[^a-z0-9_]//g')
+
+# Create the full filename
+FULL_FILENAME="${DATE}-${FILENAME}.md"
+
+# Create the file path
+FILE_PATH="app/posts/${FULL_FILENAME}"
+
+# Check if file already exists
+if [ -f "$FILE_PATH" ]; then
+    echo "Error: File $FILE_PATH already exists!"
+    exit 1
+fi
+
+# Create the post file with front matter
+cat > "$FILE_PATH" << EOF
+---
+layout: post
+title:  "$TITLE"
+date:   $DATETIME
+categories: general
+description: placeholder
+permalink: /$PERMALINK/
+---
+
+# $TITLE
+
+Your content goes here...
+
+EOF
+
+echo "Created new post: $FILE_PATH"
+echo "Title: $TITLE"
+echo "Permalink: /$PERMALINK/"
+echo "Filename: $FULL_FILENAME"

@@ -64,6 +64,60 @@ This blog embraces the raw, authentic feel of early web design:
    - Blog: http://localhost:3000
    - Admin: http://localhost:3000/admin
 
+## ✍️ Creating New Posts
+
+This blog uses Jekyll-style markdown files for posts. Use the included script to quickly create new posts:
+
+### First Time Setup
+Make the script executable:
+```bash
+chmod +x bin/new-post
+```
+
+### Usage
+```bash
+./bin/new-post "Your Post Title Here"
+```
+
+**Example:**
+```bash
+./bin/new-post "My Amazing Rails Tutorial"
+```
+
+This creates: `app/posts/2025-01-27-my-amazing-rails-tutorial.md`
+
+### What the Script Does
+- Generates filename with current date and title (spaces → dashes)
+- Creates proper Jekyll front matter with:
+  - `title`: Exact title you provided
+  - `date`: Current date and time
+  - `permalink`: Title converted to snake_case
+  - `categories`: "general" (placeholder)
+  - `description`: "placeholder" (placeholder)
+- Places the file in `app/posts/` directory
+
+### Manual Fallback
+If the script isn't working, you can create posts manually:
+```bash
+# Create the file
+touch app/posts/$(date +%Y-%m-%d)-your-title-here.md
+
+# Add front matter manually
+cat > app/posts/$(date +%Y-%m-%d)-your-title-here.md << 'EOF'
+---
+layout: post
+title:  "Your Title Here"
+date:   $(date +"%Y-%m-%d %H:%M:%S +0000")
+categories: general
+description: placeholder
+permalink: /your_title_here/
+---
+
+# Your Title Here
+
+Your content goes here...
+EOF
+```
 
 ## 📁 Project Structure
 
