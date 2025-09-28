@@ -49,6 +49,57 @@ permalink: /$PERMALINK/
 
 Your content goes here...
 
+## Subheading Example
+
+This is a paragraph with some **bold text** and *italic text*. You can also use ~~strikethrough~~ for emphasis.
+
+### Code Examples
+
+Here's some inline \`code\` and a code block:
+
+\`\`\`ruby
+def hello_world
+  puts "Hello, World!"
+end
+\`\`\`
+
+### Lists
+
+**Unordered list:**
+- First item
+- Second item
+- Third item
+
+**Ordered list:**
+1. First step
+2. Second step
+3. Third step
+
+### Links and Images
+
+Here's a [link to Google](https://google.com) and an image:
+
+![Alt text for image](/assets/imgs/your-image.jpg)
+
+### Blockquotes
+
+> This is a blockquote. It can contain multiple lines
+> and is great for highlighting important information
+> or quotes from other sources.
+
+### Tables
+
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Data 1   | Data 2   | Data 3   |
+| Data 4   | Data 5   | Data 6   |
+
+### Horizontal Rule
+
+---
+
+*End of post content*
+
 EOF
 
 echo "Created new post: $FILE_PATH"
