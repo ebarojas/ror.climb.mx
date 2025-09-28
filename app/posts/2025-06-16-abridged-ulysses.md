@@ -11,6 +11,29 @@ permalink: /ulysses/
 
 This is an abridged version of James Joyce's Ulysses, showing only the dialog and the basic chapter setting. I have not edited this heavily, the content here has been extracted from Gutenberg Project's txt file with a python script and is used within the limits of the license provided in that text.
 
+## Gilbert's Table
+
+| Title | Scene | Hour | Organ | Colour | Symbol | Art | Technic |
+|-------|-------|------|-------|--------|--------|-----|---------|
+| [Telemachus](#chapter-1-telemachus) | The Tower | 8am | - | White / gold | Heir | Theology | Narrative (young) |
+| [Nestor](#chapter-2-nestor) | The School | 10am | - | Brown | Horse | History | Catechism (personal) |
+| [Proteus](#chapter-3-proteus) | The Strand | 11am | - | Green | Tide | Philology | Monologue (male) |
+| [Calypso](#chapter-4-calypso) | The House | 8am | Kidney | Orange | Nymph | Economics | Narrative (mature) |
+| [Lotus Eaters](#chapter-5-lotus-eaters) | The Bath | 10am | Genitals | - | Eucharist | Botany / chemistry | Narcissism |
+| [Hades](#chapter-6-hades) | The Graveyard | 11am | Heart | White / black | Caretaker | Religion | Incubism |
+| [Aeolus](#chapter-7-aeolus) | The Newspaper | 12 noon | Lungs | Red | Editor | Rhetoric | Enthymemic |
+| [Lestrygonians](#chapter-8-lestrygonians) | The Lunch | 1pm | Oesophagus | - | Constables | Architecture | Peristaltic |
+| [Scylla and Charybdis](#chapter-9-scylla-and-charybdis) | The Library | 2pm | Brain | - | Stratford / London | Literature | Dialectic |
+| [Wandering Rocks](#chapter-10-wandering-rocks) | The Streets | 3pm | Blood | - | Citizens | Mechanics | Labyrinth |
+| [Sirens](#chapter-11-sirens) | The Concert Room | 4pm | Ear | - | Barmaids | Music | Fuga per canonem |
+| [Cyclops](#chapter-12-cyclops) | The Tavern | 5pm | Muscle | - | Fenian | Politics | Gigantism |
+| [Nausicaa](#chapter-13-nausicaa) | The Rocks | 8pm | Eye, nose | Grey / blue | Virgin | Painting | Tumescence / detumescence |
+| [Oxen of the Sun](#chapter-14-oxen-of-the-sun) | The Hospital | 10pm | Womb | White | Mothers | Medicine | Embryonic development |
+| [Circe](#chapter-15-circe) | The Brothel | 12am | Locomotor apparatus | - | Whore | Magic | Hallucination |
+| [Eumaeus](#chapter-16-eumaeus) | The Shelter | 1am | Nerves | - | Sailors | Navigation | Narrative (old) |
+| [Ithaca](#chapter-17-ithaca) | The House | 2am | Skeleton | - | Comets | Science | Catechism (impersonal) |
+| [Penelope](#chapter-18-penelope) | The Bed | - | Flesh | - | Earth | - | Monologue (female) |
+
 ## Chapters
 
 - [Chapter 1 - Telemachus](#chapter-1-telemachus)
