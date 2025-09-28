@@ -13,7 +13,7 @@ This is an abridged version of James Joyce's Ulysses, showing only the dialog an
 
 ## Gilbert's Table
 
-As you may noe, Gilbert’s table is a chart created in 1921 by the critic and journalist Stuart Gilbert, a friend of James Joyce. It is based on Joyce’s own notes and maps each chapter of Ulysses onto a set of symbolic correspondences such as a colour, organ, art, hour of the day, and technic. Intended to guide readers through the novel’s complex structure it is one of the most widely used reference tools for interpreting Ulysses. My copy of Ulysses has this table in the Foreword, I took the liberty to map each provided colour onto the text and proposed colours for chapters that had none in the spirit of continuity.
+As you may know, Gilbert’s table is a chart created in 1921 by the critic and journalist Stuart Gilbert, a friend of James Joyce. It is based on Joyce’s own notes and maps each chapter of Ulysses onto a set of symbolic correspondences such as a colour, organ, art, hour of the day, and technic. Intended to guide readers through the novel’s complex structure it is one of the most widely used reference tools for interpreting Ulysses. My copy of Ulysses has this table in the Foreword, I took the liberty to map each provided colour onto the text and proposed colours for chapters that had none in the spirit of continuity.
 
 | Title | Scene | Hour | Organ | Colour | Symbol | Art | Technic |
 |-------|-------|------|-------|--------|--------|-----|---------|
