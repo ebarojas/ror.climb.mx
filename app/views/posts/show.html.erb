@@ -481,6 +481,34 @@
       width: calc(100% + 40px);
     }
     
+    /* Reset styling for Project Gutenberg License section */
+    .post-content h2[id="project-gutenberg-license-compliance"] {
+      background-color: transparent !important;
+      color: inherit !important;
+      padding: 0 !important;
+      margin: 0 !important;
+      width: auto !important;
+    }
+    
+    .post-content h2[id="project-gutenberg-license-compliance"] + *,
+    .post-content h2[id="project-gutenberg-license-compliance"] ~ * {
+      background-color: transparent !important;
+      color: inherit !important;
+      padding: 0 !important;
+      margin: 0 !important;
+      width: auto !important;
+    }
+    
+    /* Ensure proper paragraph spacing in Project Gutenberg section */
+    .post-content h2[id="project-gutenberg-license-compliance"] ~ p {
+      margin-bottom: 1em !important;
+      margin-top: 1em !important;
+    }
+    
+    .post-content h2[id="project-gutenberg-license-compliance"] ~ p:first-of-type {
+      margin-top: 0.5em !important;
+    }
+    
     /* Gilbert Table Styling - Only for Ulysses abridgement post */
     .post-content h2[id="gilberts-table"] + * table,
     .post-content h2[id="gilberts-table"] ~ table {
