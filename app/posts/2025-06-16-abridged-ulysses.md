@@ -9,7 +9,9 @@ permalink: /ulysses/
 
 # James Joyce's Ulysses, down to only dialogue and minimal setting
 
-This is an abridged version of James Joyce's Ulysses, showing only the dialog and the basic chapter setting. I have not edited this heavily, the content here has been extracted from Gutenberg Project's txt file with a python script and is used within the limits of the license provided in that text. License attribution is at the end.
+This is an abridged version of James Joyce's Ulysses, showing only the dialog and the basic chapter setting. I have not edited this heavily, the content here has been extracted from [Gutenberg Project's text file ](https://github.com/ebarojas/ror.climb.mx/blob/main/resources/ulysses.txt) with a python script and help from several AI tools. It is used within the limits of the license provided in that text, details about licence use in the bottom of the text.
+
+The short-ish dialog of Joyce's original text can be well appreciated here, it can easily be read in a day whereas the full text took me about 16 years. The reasoning behind my abridgement of this work can be more fully understood here (link coming soon).
 
 ## Gilbert's Table
 
