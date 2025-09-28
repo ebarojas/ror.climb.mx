@@ -180,6 +180,10 @@ ror.climb.mx/
 │   ├── ai.txt
 │   ├── 404.html
 │   └── favicon files
+├── resources/                    # Project resources and documentation
+│   ├── Cursor_instructions.md    # Technical documentation for Ulysses project
+│   ├── Ulysses_Dialog_Compendium.md  # Extracted dialogue reference
+│   └── ulysses.txt              # Source text (Project Gutenberg)
 ├── .github/
 │   └── workflows/
 │       └── ci.yml
