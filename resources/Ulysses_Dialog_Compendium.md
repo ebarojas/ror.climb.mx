@@ -1,4 +1,4 @@
-# Ulysses — Dialog-Only Compendium (from uploaded text)
+# Ulysses — Dialog-Only Compendium
 
 > Extracted lines that begin with a dash (—/–/--/-), chapter by chapter.
 
