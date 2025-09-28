@@ -481,44 +481,67 @@
       width: calc(100% + 40px);
     }
     
-    /* Gilbert Table Styling - Match chapter colors */
-    .post-content table {
+    /* Gilbert Table Styling - Only for Ulysses abridgement post */
+    .post-content h2[id="gilberts-table"] + * table,
+    .post-content h2[id="gilberts-table"] ~ table {
       border-collapse: collapse;
       width: 100%;
       margin: 20px 0;
     }
     
-    .post-content table th,
-    .post-content table td {
+    .post-content h2[id="gilberts-table"] + * table th,
+    .post-content h2[id="gilberts-table"] + * table td,
+    .post-content h2[id="gilberts-table"] ~ table th,
+    .post-content h2[id="gilberts-table"] ~ table td {
       border: 1px solid #ddd;
       padding: 8px;
       text-align: left;
     }
     
-    .post-content table th {
-      background-color: #f5f5f5;
+    .post-content h2[id="gilberts-table"] + * table th,
+    .post-content h2[id="gilberts-table"] ~ table th {
+      background-color: #f5f5f5 !important;
       font-weight: bold;
+      color: #333333 !important;
     }
     
-    /* Chapter-specific row colors */
-    .post-content table tr:nth-child(1) { background-color: #DAA520; color: #FFFFFF; } /* Telemachus */
-    .post-content table tr:nth-child(2) { background-color: #8B4513; color: #FFFFF0; } /* Nestor */
-    .post-content table tr:nth-child(3) { background-color: #008000; color: #191970; } /* Proteus */
-    .post-content table tr:nth-child(4) { background-color: #FFA500; color: #A0522D; } /* Calypso */
-    .post-content table tr:nth-child(5) { background-color: #DAA520; color: #4B0082; } /* Lotus Eaters */
-    .post-content table tr:nth-child(6) { background-color: #000000; color: #FFFFFF; } /* Hades */
-    .post-content table tr:nth-child(7) { background-color: #B22222; color: #FFFFFF; } /* Aeolus */
-    .post-content table tr:nth-child(8) { background-color: #FFB347; color: #5C4033; } /* Lestrygonians */
-    .post-content table tr:nth-child(9) { background-color: #333333; color: #FF2400; } /* Scylla and Charybdis */
-    .post-content table tr:nth-child(10) { background-color: #6A5ACD; color: #D3D3D3; } /* Wandering Rocks */
-    .post-content table tr:nth-child(11) { background-color: #CD7F32; color: #FFFDD0; } /* Sirens */
-    .post-content table tr:nth-child(12) { background-color: #006400; color: #000000; } /* Cyclops */
-    .post-content table tr:nth-child(13) { background-color: #4682B4; color: #B0C4DE; } /* Nausicaa */
-    .post-content table tr:nth-child(14) { background-color: #FFFFF0; color: #DC143C; } /* Oxen of the Sun */
-    .post-content table tr:nth-child(15) { background-color: #800080; color: #ADFF2F; } /* Circe */
-    .post-content table tr:nth-child(16) { background-color: #654321; color: #FFFF99; } /* Eumaeus */
-    .post-content table tr:nth-child(17) { background-color: #C0C0C0; color: #000000; } /* Ithaca */
-    .post-content table tr:nth-child(18) { background-color: #800000; color: #FFFFF0; } /* Penelope */
+    /* Chapter-specific row colors - Only for Ulysses Gilbert table */
+    .post-content h2[id="gilberts-table"] + * table tr:nth-child(1),
+    .post-content h2[id="gilberts-table"] ~ table tr:nth-child(1) { background-color: #DAA520; color: #FFFFFF; } /* Telemachus */
+    .post-content h2[id="gilberts-table"] + * table tr:nth-child(2),
+    .post-content h2[id="gilberts-table"] ~ table tr:nth-child(2) { background-color: #8B4513; color: #FFFFF0; } /* Nestor */
+    .post-content h2[id="gilberts-table"] + * table tr:nth-child(3),
+    .post-content h2[id="gilberts-table"] ~ table tr:nth-child(3) { background-color: #008000; color: #191970; } /* Proteus */
+    .post-content h2[id="gilberts-table"] + * table tr:nth-child(4),
+    .post-content h2[id="gilberts-table"] ~ table tr:nth-child(4) { background-color: #FFA500; color: #A0522D; } /* Calypso */
+    .post-content h2[id="gilberts-table"] + * table tr:nth-child(5),
+    .post-content h2[id="gilberts-table"] ~ table tr:nth-child(5) { background-color: #DAA520; color: #4B0082; } /* Lotus Eaters */
+    .post-content h2[id="gilberts-table"] + * table tr:nth-child(6),
+    .post-content h2[id="gilberts-table"] ~ table tr:nth-child(6) { background-color: #000000; color: #FFFFFF; } /* Hades */
+    .post-content h2[id="gilberts-table"] + * table tr:nth-child(7),
+    .post-content h2[id="gilberts-table"] ~ table tr:nth-child(7) { background-color: #B22222; color: #FFFFFF; } /* Aeolus */
+    .post-content h2[id="gilberts-table"] + * table tr:nth-child(8),
+    .post-content h2[id="gilberts-table"] ~ table tr:nth-child(8) { background-color: #FFB347; color: #5C4033; } /* Lestrygonians */
+    .post-content h2[id="gilberts-table"] + * table tr:nth-child(9),
+    .post-content h2[id="gilberts-table"] ~ table tr:nth-child(9) { background-color: #333333; color: #FF2400; } /* Scylla and Charybdis */
+    .post-content h2[id="gilberts-table"] + * table tr:nth-child(10),
+    .post-content h2[id="gilberts-table"] ~ table tr:nth-child(10) { background-color: #6A5ACD; color: #D3D3D3; } /* Wandering Rocks */
+    .post-content h2[id="gilberts-table"] + * table tr:nth-child(11),
+    .post-content h2[id="gilberts-table"] ~ table tr:nth-child(11) { background-color: #CD7F32; color: #FFFDD0; } /* Sirens */
+    .post-content h2[id="gilberts-table"] + * table tr:nth-child(12),
+    .post-content h2[id="gilberts-table"] ~ table tr:nth-child(12) { background-color: #006400; color: #000000; } /* Cyclops */
+    .post-content h2[id="gilberts-table"] + * table tr:nth-child(13),
+    .post-content h2[id="gilberts-table"] ~ table tr:nth-child(13) { background-color: #4682B4; color: #B0C4DE; } /* Nausicaa */
+    .post-content h2[id="gilberts-table"] + * table tr:nth-child(14),
+    .post-content h2[id="gilberts-table"] ~ table tr:nth-child(14) { background-color: #FFFFF0; color: #DC143C; } /* Oxen of the Sun */
+    .post-content h2[id="gilberts-table"] + * table tr:nth-child(15),
+    .post-content h2[id="gilberts-table"] ~ table tr:nth-child(15) { background-color: #800080; color: #ADFF2F; } /* Circe */
+    .post-content h2[id="gilberts-table"] + * table tr:nth-child(16),
+    .post-content h2[id="gilberts-table"] ~ table tr:nth-child(16) { background-color: #654321; color: #FFFF99; } /* Eumaeus */
+    .post-content h2[id="gilberts-table"] + * table tr:nth-child(17),
+    .post-content h2[id="gilberts-table"] ~ table tr:nth-child(17) { background-color: #C0C0C0; color: #000000; } /* Ithaca */
+    .post-content h2[id="gilberts-table"] + * table tr:nth-child(18),
+    .post-content h2[id="gilberts-table"] ~ table tr:nth-child(18) { background-color: #800000; color: #FFFFF0; } /* Penelope */
   </style>
 </head>
 <body>
