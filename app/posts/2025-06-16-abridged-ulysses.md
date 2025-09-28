@@ -2475,7 +2475,9 @@ _(No traditional dialogue found in this chapter - written as Molly Bloom's unint
 
 ## Project Gutenberg License Compliance
 
-This abridged version of *Ulysses* by James Joyce is derived from the Project Gutenberg eBook of Ulysses, which is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the [Project Gutenberg License](https://www.gutenberg.org/license) included with this eBook or online at [www.gutenberg.org](https://www.gutenberg.org). If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.
+This abridged version of *Ulysses* by James Joyce is derived from the Project Gutenberg eBook of Ulysses, which is for the use of anyone anywhere in most parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the [Project Gutenberg License](https://www.gutenberg.org/license) included with this eBook or online at [www.gutenberg.org](https://www.gutenberg.org). You will have to check the laws of the country where you are located before using this eBook.
 
 
-This abridgement maintains the original Project Gutenberg license terms and is provided for educational purposes. The original work is in the public domain in the United States, and this derivative work is shared freely in compliance with Project Gutenberg's mission of promoting free access to electronic works.
+This abridgement maintains the original Project Gutenberg license terms and is provided for educational purposes. The original work is in the public domain in most of the world, and this derivative work is shared freely in compliance with Project Gutenberg's mission of promoting free access to electronic works.
+
+Thanks Project Gutenberg, I could not have done it without you.
