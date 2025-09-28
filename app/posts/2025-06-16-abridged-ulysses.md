@@ -11,11 +11,11 @@ permalink: /ulysses/
 
 This is an abridged version of James Joyce's Ulysses, showing only the dialog and the basic chapter setting. I have not edited this heavily, the content here has been extracted from [Gutenberg Project's text file ](https://github.com/ebarojas/ror.climb.mx/blob/main/resources/ulysses.txt) with a python script and help from several AI tools. It is used within the limits of the license provided in that text, details about licence use in the bottom of the text.
 
-The short-ish dialog of Joyce's original text can be well appreciated here, it can easily be read in a day whereas the full text took me about 16 years. The reasoning behind my abridgement of this work can be more fully understood here (link coming soon).
+The short-ish dialog of Joyce's original text can be well appreciated here, it can easily be read in a day whereas the full text took me about 16 years. The reasoning behind my [abridgement of this work can be more fully understood here](/posts/aftermath-of-reading-ulysses).
 
 ## Gilbert's Table
 
-As you may know, Gilbert’s table is a chart created in 1921 by the critic and journalist Stuart Gilbert, a friend of James Joyce. It is based on Joyce’s own notes and maps each chapter of Ulysses onto a set of symbolic correspondences such as a colour, organ, art, hour of the day, and technic. Intended to guide readers through the novel’s complex structure it is one of the most widely used reference tools for interpreting Ulysses. My copy of Ulysses has this table in the Foreword, I took the liberty to map each provided colour onto the text and proposed colours for chapters that had none in the spirit of continuity.
+As you may know, Gilbert’s table is a chart created in 1921 by the critic and journalist Stuart Gilbert, a friend of James Joyce. It is based on Joyce’s own notes and maps each chapter of Ulysses onto a set of symbolic correspondences such as a colour, organ, art, hour of the day, and technic. Intended to guide readers through the novel’s complex structure it is one of the most widely used reference tools for interpreting Ulysses. My copy of Ulysses has this table in the Foreword, I took the liberty to map each provided colour onto the text and [proposed colours for chapters that had none in the spirit of continuity](/posts/aftermath-of-reading-ulysses/#complement-of-colour-described-in-gilberts-table).
 
 | Title | Scene | Hour | Organ | Colour | Symbol | Art | Technic |
 |-------|-------|------|-------|--------|--------|-----|---------|
