@@ -7,9 +7,9 @@ description: Dialogue and setting extracts from Ulysses
 permalink: /ulysses/
 ---
 
-# James Joyce's Ulysses, down to only dialogue and setting
+# James Joyce's Ulysses, down to only dialogue and minimal setting
 
-This is an abridged version of James Joyce's Ulysses, showing only the dialog and the basic chapter setting. I have not edited this heavily, the content here has been extracted from Gutenberg Project's txt file with a python script and is used within the limits of the license provided in that text.
+This is an abridged version of James Joyce's Ulysses, showing only the dialog and the basic chapter setting. I have not edited this heavily, the content here has been extracted from Gutenberg Project's txt file with a python script and is used within the limits of the license provided in that text. License attribution is at the end.
 
 ## Gilbert's Table
 
