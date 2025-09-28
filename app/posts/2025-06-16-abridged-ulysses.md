@@ -89,7 +89,7 @@ As you may know, Gilbert’s table is a chart created in 1921 by the critic and 
 - Buck Mulligan: "What sort of a kip is this? I told her to come after eight."
 - Stephen: "We can drink it black, there's a lemon in the locker."
 - Buck Mulligan: "O, damn you and your Paris fads! I want Sandycove milk."
-- Buck Mulligan: "That woman is coming up with the milk."
+- Haines: "That woman is coming up with the milk."
 - Buck Mulligan: "The blessings of God on you! In nomine Patris et Filii et Spiritus Sancti."
 - Haines: "I'm giving you two lumps each. But, I say, Mulligan, you do make strong tea, don't you?"
 - Buck Mulligan: "When I makes tea I makes tea, as old mother Grogan said. And when I makes water I makes water."
