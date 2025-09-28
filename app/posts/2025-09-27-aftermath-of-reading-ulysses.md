@@ -13,6 +13,8 @@ This document provides detailed technical documentation and methodology for the 
 
 This technical documentation was created by Everardo with assistance from AI tools to systematically document the complex text processing methodology, technical implementation details, and quality control measures employed in transforming Joyce's dense literary work into an accessible dialogue-focused format. The documentation serves as both a record of the abridgement process and a guide for similar literary text analysis projects.
 
+It's completely clear that the stream of consciousness bits in Ulysses are actually the best bits. This is an exercise to help me familiarise with the text and to help other readers understand parts which can sometimes get lost. I've enjoyed Ulysses more because of this effort and it has helped me understand characters in a different way.
+
 ## Background
 
 My copy of Ulysses was purchased in Hughes & Hughes at Dublin's airport in 2008 after my European grand tour. I had a 36 hour layover and with little money and the voracious appetite for entertainment that so commonly accompanies a student the € 13.50 euros seemed like the best possible investment, even chosen over nourishment. Not only did Ulysses provide entertainment during that long layover, but its complex reading was to last for several other trips. I finally finished it in 2025, concluding that those € 13.50 Euros gave me conversation, knowledge and reading for a bit over 17 years, a great investment.
