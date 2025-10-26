@@ -16,6 +16,11 @@ IMAGES_SECTION=""
 while [[ $# -gt 0 ]]; do
     case $1 in
         -i)
+            if [ $# -lt 2 ] || [ -z "$2" ]; then
+                echo "Error: -i flag requires a folder name"
+                echo "Usage: $0 \"Post Title\" [-i folder_name]"
+                exit 1
+            fi
             IMAGE_FOLDER="$2"
             shift 2
             ;;
@@ -50,8 +55,11 @@ if [ -n "$IMAGE_FOLDER" ]; then
     # Get all image files from the folder
     IMAGE_FILES=$(find "$FOLDER_PATH" -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.gif" -o -iname "*.webp" \) | sort)
     
+    # Count images
+    IMAGE_COUNT=$(echo "$IMAGE_FILES" | wc -l)
+    
     # Generate images section if images are found
-    if [ -n "$IMAGE_FILES" ]; then
+    if [ -n "$IMAGE_FILES" ] && [ "$IMAGE_COUNT" -gt 0 ]; then
         IMAGES_SECTION="### Images
 
 "
@@ -165,3 +173,10 @@ echo "Created new post: $FILE_PATH"
 echo "Title: $TITLE"
 echo "Permalink: /$PERMALINK/"
 echo "Filename: $FULL_FILENAME"
+
+# Show image count feedback if images were processed
+if [ -n "$IMAGE_FOLDER" ] && [ "$IMAGE_COUNT" -gt 0 ]; then
+    echo "Added $IMAGE_COUNT images from $IMAGE_FOLDER"
+elif [ -n "$IMAGE_FOLDER" ] && [ "$IMAGE_COUNT" -eq 0 ]; then
+    echo "No images found in $IMAGE_FOLDER"
+fi
