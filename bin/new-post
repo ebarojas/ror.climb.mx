@@ -1,14 +1,72 @@
 #!/bin/bash
 
-# Check if title is provided
+# Check if any arguments are provided
 if [ $# -eq 0 ]; then
-    echo "Usage: $0 \"Post Title\""
+    echo "Usage: $0 \"Post Title\" [-i folder_name]"
     echo "Example: $0 \"My Amazing Post\""
+    echo "Example: $0 \"My Amazing Post\" -i example_folder"
     exit 1
 fi
 
-# Get the title from command line argument
-TITLE="$1"
+# Initialize variables
+IMAGE_FOLDER=""
+IMAGES_SECTION=""
+
+# Parse command line arguments
+while [[ $# -gt 0 ]]; do
+    case $1 in
+        -i)
+            IMAGE_FOLDER="$2"
+            shift 2
+            ;;
+        *)
+            # First non-flag argument is the title
+            if [ -z "$TITLE" ]; then
+                TITLE="$1"
+            fi
+            shift
+            ;;
+    esac
+done
+
+# Check if title was provided
+if [ -z "$TITLE" ]; then
+    echo "Usage: $0 \"Post Title\" [-i folder_name]"
+    echo "Example: $0 \"My Amazing Post\""
+    echo "Example: $0 \"My Amazing Post\" -i example_folder"
+    exit 1
+fi
+
+# If image folder is specified, validate and process images
+if [ -n "$IMAGE_FOLDER" ]; then
+    FOLDER_PATH="public/imgs/$IMAGE_FOLDER"
+    
+    # Check if folder exists
+    if [ ! -d "$FOLDER_PATH" ]; then
+        echo "Folder not found, aborting"
+        exit 1
+    fi
+    
+    # Get all image files from the folder
+    IMAGE_FILES=$(find "$FOLDER_PATH" -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.gif" -o -iname "*.webp" \) | sort)
+    
+    # Generate images section if images are found
+    if [ -n "$IMAGE_FILES" ]; then
+        IMAGES_SECTION="### Images
+
+"
+        while IFS= read -r image_file; do
+            # Extract filename without extension
+            filename=$(basename "$image_file")
+            name_without_ext="${filename%.*}"
+            
+            # Add image markdown
+            IMAGES_SECTION+="![$name_without_ext](/imgs/$IMAGE_FOLDER/$filename)
+
+"
+        done <<< "$IMAGE_FILES"
+    fi
+fi
 
 # Get current date in YYYY-MM-DD format
 DATE=$(date +"%Y-%m-%d")
@@ -98,7 +156,7 @@ Here's a [link to Google](https://google.com) and an image:
 
 ---
 
-*End of post content*
+${IMAGES_SECTION}*End of post content*
 
 EOF
 
