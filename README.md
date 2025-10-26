@@ -75,13 +75,24 @@ chmod +x bin/new-post
 ```
 
 ### Usage
+
+**Basic Post Creation:**
 ```bash
 ./bin/new-post "Your Post Title Here"
 ```
 
-**Example:**
+**Post with Images:**
 ```bash
+./bin/new-post "Your Post Title Here" -i folder_name
+```
+
+**Examples:**
+```bash
+# Basic post
 ./bin/new-post "My Amazing Rails Tutorial"
+
+# Post with images from a folder
+./bin/new-post "My Photo Gallery" -i vacation_photos
 ```
 
 This creates: `app/posts/2025-01-27-my-amazing-rails-tutorial.md`
@@ -95,6 +106,29 @@ This creates: `app/posts/2025-01-27-my-amazing-rails-tutorial.md`
   - `categories`: "general" (placeholder)
   - `description`: "placeholder" (placeholder)
 - Places the file in `app/posts/` directory
+
+### Image Integration Feature (`-i` flag)
+
+When using the `-i` flag, the script automatically includes all images from the specified folder:
+
+**Requirements:**
+- Folder must exist in `/public/imgs/`
+- Only image files are processed (jpg, jpeg, png, gif, webp)
+- Images are sorted alphabetically
+
+**What happens:**
+1. Script validates the folder exists in `/public/imgs/`
+2. Scans for image files and ignores non-image files
+3. Generates markdown image tags with captions:
+   ```markdown
+   ![filename](/imgs/folder/filename.jpg)
+   *filename*
+   ```
+4. Adds an "Images" section to the post content
+
+**Error handling:**
+- If folder doesn't exist: "Folder not found, aborting"
+- Script fails gracefully without creating the post
 
 ### Manual Fallback
 If the script isn't working, you can create posts manually:
