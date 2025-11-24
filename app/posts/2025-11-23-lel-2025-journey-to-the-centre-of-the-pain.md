@@ -113,7 +113,7 @@ The night, however, was beautiful. After a while I could kind of separate myself
 
 I reached Writtle around 0330. Empty control, bit chaotic. No food sincethe event's organisers were spread thin by the cancellation. But I did manage to buy a beer from a fella that appeared german, obviously. I felt terrible. Also I felt happy. The contradiction made sense in a way that normal logic couldn't. I'd completed the final 250 kilometers with my injured knee, barely able to function but I'd done it.
 
-I still had five kilometers to my accommodation. Best get moving. I'd arrived transformed and weirdly traumatized. The roads, the lights, the people, it was over though. Riders return.
+I still had five kilometers to my accommodation, under the circumstances they would take the best of me. Best get moving. A transformation is expected once this kind of trip ends, what was not expected is I'd arrived weirdly traumatised by the whole affair. Whatever the tranformation, the reason or effect, like everything it must end. The roads, the lights, the people, it was over. Riders return.
 
 Three months after the event came the final diagnosis—directly from an MRI, no ambiguity. Tear of the semimembranosus distal tendon. minimal synovitis and paratenonitis consistent with overuse. The medical language was precise, clinical, definitive. I'd been cycling on a torn tendon for 700 kilometers. The body had been filing complaints; I'd been ignoring them in favor of apple crumble.
 
