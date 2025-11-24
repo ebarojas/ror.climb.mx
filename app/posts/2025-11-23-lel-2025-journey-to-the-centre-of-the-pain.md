@@ -9,52 +9,119 @@ permalink: /lel_2025_journey_to_the_centre_of_the_pain/
 
 ## Cyclist rides to foreign lands in search of lost sanity... none found.
 
-All healthy riders are the same, but injured cyclists suffers in their own way. 
+LONDON 03.08.2025 — Foreign cyclist spends eighteen months and undisclosed sum preparing for 1,500km international endurance event, injures knee three weeks before departure, goes anyway. Inflicts additional injury on pride and self esteem. Condition worsens hourly until event organizers cancel ride mid-course due to Storm Floris. Rider cycles back completing 700km with what medical professionals would call "contraindicated joint function" and "poor decision-making skills". When asked why, rider cited intent to survey apple crumble at controls. Months later, knee remains injured. Prospects of recovery, dim.  Would do again. Apple crumbles rated at 7/10.
 
-This is a paragraph with some **bold text** and *italic text*. You can also use ~~strikethrough~~ for emphasis.
+# One
 
-### Code Examples
+All healthy riders are the same, but injured cyclists suffer in their own way. That's more or less what I was thinking when I was in the back of the peloton, watching riders that started after me pass with gleaming smiles and shiny kit. I had trained for a sub 100hr ride but was having to quite strictly pace myself to baby my knee.
 
-Here's some inline `code` and a code block:
+That first morning was beautiful. Departing from Writtle, early light, crisp air, smooth peloton, the rhythm of wheels and breath and the collective deranged hope that we'd all make it. The first control Northstowe loomed large in my imagination—what do you even do at a control? I had never done an Audax event. I arrived, fumbled through the logistics, ate something, went to get stuff from my bike like 6 times and left {comment on GI}. The knee felt squeamish but fine. Was this going to work?
 
-```ruby
-def hello_world
-  puts "Hello, World!"
-end
-```
+The next control brought challenging riding, the Fens. Long, windy flats with bad pavement. The knee began its commentary. Someone—a rider whose name I never caught—suggested paratamol. It worked, briefly. The Fens felt strange, flat and endless until a chaotic rain made everything feel epic. The subsequent cold settled into my knee like no intention of leaving.
 
-### Lists
+By Boston I was hammered. It was clear my training had not been enough. Fifty kilometers to Louth stretched ahead like torture. I fiddled with the bike fit, added washers to pedals to widen my stance, anything to shift the pain somewhere else. It helped. The first abandoners started appearing, laying on the road silently. We exchanged words of encouragement.
 
-**Unordered list:**
-- First item
-- Second item
-- Third item
+After resting outside a church I met Marianne, a French cyclist with a beautifully crafted bike and a pace slow enough that we could ride together and talk. Riding at night was beautiful, but the pain was now real. She was pacing carefully as well due to a heart condition. We matched speeds, traded fragments of our stories across the kilometers. Midnight at Hessle, both of us knackered, my pain debilitating. She asked to be woken up at 3am (you can do that at controls!) to catch her partner at Louth in the morning. I ate everything available, including my first apple crumble and proceded to sleep way too much.
 
-**Ordered list:**
-1. First step
-2. Second step
-3. Third step
+Next morning I took off slowly towards Hessle, realizing I was catastrophically bad at contro, bad at transitions, bad at eating efficiently, bad at leaving on time and today with a LOT of pain, also bad at route finding. To make matters worse had a flat on the way, and then it started to rain. I reached Hessle at around 1300hrs and was immediately told the event was held up due to storm Floris and we could not leave.
 
-### Links and Images
+I'd been thinking about Paris-Brest-Paris since 2015. Planned for it three times—2015, 2019, 2023—a trilogy of failure where dates and money never aligned, life intervened, the four-year cycle proving impossible to catch. By 2024 I realized I couldn't wait much longer (famous last words). LEL appeared like an answer: 1,500 kilometers, British countryside, no need to qualify in other brevets, 128 hours, next year. I pre-registered for a raffle to ride and was accepted.
 
-Here's a [link to Google](https://google.com) and an image:
+I rebuilt my entire bike for it, new everything, hand picked components, piece by expensive and hard to find piece. The SON nabendynamo hub alone cost an arm and a leg. I built the wheels around it myself. First wheelset ever. Velocity Dyad rims, DT Swiss double-butted spokes, brass nipples, the works. Spent months staring at the parts before gathering courage to do it. The wheels came out true. Technology would save me! These wheels and the lights attached to them would literally light my way. This was to be the Renaissance of my cycling, the golden age, the Jules Verne version of life where adventure is glorious and preparation prevents catastrophe. Freshly wrapped handlebars pointed north and eighteen months to get ready. What could possibly go wrong?
 
-### Blockquotes
+![PXL_20250802_144948824](/imgs/LEL_2025/PXL_20250802_144948824.jpg)
+*Riding to the registration in Writtle, look how hopeful (and painfree) I look.*
 
-> This is a blockquote. It can contain multiple lines
-> and is great for highlighting important information
-> or quotes from other sources.
+![PXL_20250803_051036755.MP](/imgs/LEL_2025/PXL_20250803_051036755.MP.jpg)
+*Mid ride: same person, more pain.*
 
-### Tables
+# Two
 
-| Column 1 | Column 2 | Column 3 |
-|----------|----------|----------|
-| Data 1   | Data 2   | Data 3   |
-| Data 4   | Data 5   | Data 6   |
+Hessle. Second day. Storm Floris had arrived with winds exceeding 100 km/h in some of the mountain passes on-route and the event was held. Four hours, they said. The time would be subtracted from our sheets. No problem. Great, even; enforced rest. The universe intervening on behalf of my knee. I slept and ate.
 
-### Horizontal Rule
+Departure scheduled for 1530. Determined to learn from past control failures, I woke thirty minutes early, ate something, got my kit together. At 1530 I was at my bike, ready. Staff ushered us back inside. The control leader explained we could not leave yet. The wind was still too dangerous. Food was being rationed now. The word "rationed" hung in the air with unfortunate historical weight, rumours of chaos on the subsequent controls due to overcrowding were over-heard. We were lucky at Hessle.
 
----
+More sleep. I talked to the staff, volunteers and other Audax riders. Met Matt, a brilliant cyclist from ACME—Audax Club Mid Essex—fellow tech geek, good conversation. Talked to other riders, legends.
+
+At 1930 came the next announcement. The few remaining optimists—myself included, because apparently I'd learned nothing, got our gear together again, checked tire pressure, prepared to depart. We had a lot of time to make up for.
+
+1930 and the announcement came. Event cancelled. Storm Floris had won. Tears were barely contained around the room, some riders had trained for years, some had come from other continents, all of us had spent months building hopes and bikes in equal measure. We could not even leave the control until morning. We were trapped with our now rationed apple crumble.
+
+The stakes were no more. LEL was over. Officially.
+
+The training had been escalating for eighteen months—each ride structurally more absurd than the last, each one a test of some new theory about my setup. I'd done the Goran Kropp cosplay: bike to Iztaccíhuatl, climb, bike back. Epic rides that were supposed to prove I could do epic things, which is precisely the kind of confidence that precedes disaster.
+
+My final training day was 400 kilometers around Lake Pátzcuaro. Five or six laps depending on route. I started at 5am, the day beautiful and promising. First lap: success. Ninety kilometers at 24.4 km/h average. At this rate I would finish early! I stopped, ate, drank, felt invincible. Technology and preparation were working exactly as planned. The wheels I'd built myself were spinning true. This was it.
+
+Second lap began with a slight uneasiness in my right leg. Slight. Barely worth mentioning. When it didn't stop, I frantically checked bike fit—the saddle appeared too low, obviously, that had to be it. I corrected it, measured, remeasured, kept going. The pain didn't leave. It evolved. I kept riding anyway because how could I stop?
+
+Three-quarters through the lap I stopped at a pharmacy. Bought topical analgesic and paracetamol. Applied both. The pain wasn't crazy bad, I could still pedal, still maintain pace, still finish the lap. By kilometer 170 it was clear I was risking the entire event if I continued. The math was simple: stop now, maybe recover in time. Continue, definitely don't.
+
+So I ate something, drank something, and with what seemed at the time like a cold head and rational judgment, decided to stop. Three weeks before LEL. The injury was a gift from the gods for my presumption. Seven years of dreaming about PBP, eighteen months preparing for LEL, and my body had chosen this exact moment to file its complaint.
+
+# Three
+
+Day three. Three hundred and ten kilometers in, after a kind of rest day. Officially I was supposed to cycle south, back to London, event cancelled, dream abandoned. Instead I decided to rebel against an event that no longer existed by going north. There's a particular kind of motivation that emerges when all rationality has evaporated. I rode north.
+
+The odometer read 350km by the time I reached roughly two-thirds of the way from Hessle to Malton—my planned turnaround point for a 700km total, approximately halfway to Edinburgh. Close enough to half. I considered going farther, alas my knee was not up to it. It was surreal watching other riders stream past in the opposite direction, all of us cycling our own private unsanctioned events, acknowledging each other with nods that meant "yes, this is insane, yes, we're doing it anyway."
+
+The knee felt great at first. Nearly a full day of rest had worked its magic. But eighty kilometers in, now back in Hessle, confidence began its familiar erosion, some paracetamol was taken as a remedy. The pain wasn't dramatic, just persistent, a reminder that hope and reality operate on different timelines.
+
+Back through the Humber Bridge with high-speed winds threatening closure. I flew across before they could shut it down—small victories matter when larger ones have been cancelled. Ended the day at Louth again. Around 140 kilometers. The pattern was repeating: rest, hope, ride, regret?
+
+Food rationing continued because of the chaos. I escaped to find a local pub, because in the UK most things worth doing happen at or near a pub. There I met Paul, a fellow audax rider originally from Australia but now a Londoner. We made friends quickly, made plans to meet in London after the event that was no longer an event.
+
+After a couple of pints I counted my blessings and had a decent sleep at Louth. Tomorrow I could feel better, perhaps I had settled in.
+
+After the initial injury came the fiddling-with-the-bike-fit phase. Frantic, obsessive, allegedly scientific fiddling that replaced what should have been training. I fancied myself walking a tightrope between rest and recovery, carefully calibrating the balance. Each ride I would try to improve something—saddle height, cleat angle, pedal washers, improving? But I couldn't take long rides to test it anymore. The injury imposed limitation long rides. Departure date was getting close.
+
+I discovered one of my legs is functionally shorter than the other. My left foot is ten millimeters longer. Does that make my body and ride asymmetric? I added an aluminum shim on my right foot to compensate. That was probably it, saddle was too low on one of my legs only, due to the assymetry. Compensated by lifting the saddle. Rode more. Did it work? Hard to say. The pain didn't worsen, which felt like victory. But it never went away, fully- which felt like failure. Schrodinger's knee—simultaneously improving and deteriorating depending on when I checked.
+
+I changed so many things, too many things. Saddle height: 74.0 cm exactly, 2mm adjustments and 1 hr riding to test. Right-cleat shim: +2 mm. Cleat angle: heel-in 1°. I kept a blue notebook filled with numbers that promised control. Inseam measurements, torque specs, hip rock angles under three millimeters, knee tracking over the second toe. Each adjustment was necessary. Each adjustment was futile. Next day it would start again.
+
+By the time I landed in London, my knee swelled after twenty-minute walks. Twenty minutes. I was stressed, kind of sad, trapped in a cycle: change something, attempt to ride, get hurt, stress about it, rest, change something else, repeat until insane. In theory my bike fit issues were solved, barring last-minute adjustments. I put the bike together, torqued the bolts, checked the numbers. Ready, or not.
+
+# Fourth
+
+Fifty-six kilometers after Louth came Boston. I was making reasonably good time, even passing some cyclists. Was the knee getting better? Could this actually work? Hope can be sometimes cruel when administered like that.
+
+After Boston: the Fens. Somehow we had a headwind. Again. We'd had headwind cycling north, and now headwind cycling south. The laws of physics had suspended themselves specifically to torment LEL riders. The Fens made quick work of me: flat, endless, wind-swept.
+
+Soon I was overtaken by a group I'd recently passed: Shodhan on his minimal Bianchi Volpe, Daniel on his S-Works with mismatched wheels from a mid-race rim failure, Thomas and Oliver. Daniel kindly asked if I wanted to join their peloton and I didn't flinch. In the wind it makes an amazing difference to ride together, taking turns to ride lead and benefiting from the aerodynamic advantages when riding behind. We became a peloton of the abandoned, later baptized "Team LEL without E" (a reference to Floris in lieu of Edinburgh).
+
+Together we reached Northstowe. It was some of the best riding I did. Teamwork great, I was genuinely happy.
+
+We arrived at around 5pm. Most sensible people would stop, rest, eat un-rationed apple crumble, sleep and take it easy, since the event had been cut short anyway. However, I challenged myself to reach Writtle that night. I wanted an intense night ride. the drug of exhaustion that, at some stage makes you hallucinate, not joking btw. Sleep deprivation, glucose depletion, and monotony, a recipe for partially abandoning reality. It's quite enjoyable.
+
+Fifty kilometers south to Henham. I rode the first part with two Indian riders playing Bollywood soundtracks through a speaker. Loved it in the way only absurdist endurance can be loved, cycling through British countryside at dusk to Bollywood beats
+
+The days leading up to LEL were torturous in ways the event itself wasn't. My stress level had achieved what engineers call "critical failure imminent." The knee swelled at seemingly random intervals, people close to me started insinuating my injury might just be in my head, man. I still had to travel from Oxford—our temporary base—to Writtle, the start point. I loaded panniers onto the bike with kit for a week and embarked on a journey involving trains, underground, some actual riding and a spiral of anxiety about whether any of this would work.
+
+I arrived at Writtle a day and a half before the start. Early enough to properly stress.
+
+Registration day: complete party atmosphere. Riders everywhere assembling their beautifully curated machines—vintage Roberts steel, Japanese Panasonics, Dutch velomobiles, someone on a Brompton folding bike looking disturbingly confident. It was great entertainment watching everybody put their bikes and kit together, comparing setups, sharing wisdom earned through previous events. I watched like an outsider at my own event. I'd paid good money for this, trained eighteen months and I felt like an imposter with a broken knee and a bike held together by sheer neurotic energy.
+
+Rode back to my accommodation just before sunset. Still so much to do: routes to download, notes to take, food to pack, alarms to set, backup alarms to set in case the first alarms failed.
+
+# Fifth
+
+Left Henham a bit after 2300. By then pain wasn't limited to my knee. My ass hurt badly, my hands ached, and my Achilles tendon competed with the knee for attention. It was getting painful just to be.
+
+Needless to say I could not go fast. Soon after leaving the control every pedal stroke started to hurt. I needed intense concentration just to stay on the bike. Pain, discomfort, more pain.
+
+The night, however, was beautiful. After a while I could kind of separate myself from the pain and observe the event from above, the full moon, the landscape, like I was playing with an action figure of myself. My body moved in agony while my mind floated above, noting the aesthetic quality of the experience, it was beautiful.
+
+I reached Writtle around 0330. Empty control, bit chaotic. No food sincethe event's organisers were spread thin by the cancellation. But I did manage to buy a beer from a fella that appeared german, obviously. I felt terrible. Also I felt happy. The contradiction made sense in a way that normal logic couldn't. I'd completed the final 250 kilometers with my injured knee, barely able to function but I'd done it.
+
+I still had five kilometers to my accommodation. Best get moving. I'd arrived transformed and weirdly traumatized. The roads, the lights, the people, it was over though. Riders return.
+
+Three months after the event came the final diagnosis—directly from an MRI, no ambiguity. Tear of the semimembranosus distal tendon. minimal synovitis and paratenonitis consistent with overuse. The medical language was precise, clinical, definitive. I'd been cycling on a torn tendon for 700 kilometers. The body had been filing complaints; I'd been ignoring them in favor of apple crumble.
+
+With hindsight, it seems I had a combination of two things: an overuse injury and a tendon tear. The overuse injury was from eighteen months of training that escalated structurally until something broke. The tendon tear was what happened when I decided to ride anyway, when I kept going after LEL was cancelled, when I completed that final 250-kilometer night, barely able to pedal.
+
+I've recently made the latter worse by continuing to work out in my very steep surroundings. Because apparently the lesson wasn't clear enough the first time. Because the transformation doesn't mean fixed, just different, changed.
+
+My once in a lifetime success story became a once in a lifetime failure story. I got a medal but really DNF. I learnt what I'm willing to endure, and what that costs. The tear is still there, I can't ride, I'll lose a whole season and struggle to recover. The understanding of the cost is still forming. I'm already thinking of the next apple crumble. I will do it again, maybe succeed? If I fail I will do so in novel and fun ways.
 
 ### Images
 
@@ -63,12 +130,6 @@ Here's a [link to Google](https://google.com) and an image:
 
 ![PXL_20250802_143631602](/imgs/LEL_2025/PXL_20250802_143631602.jpg)
 *PXL_20250802_143631602*
-
-![PXL_20250802_144948824](/imgs/LEL_2025/PXL_20250802_144948824.jpg)
-*PXL_20250802_144948824*
-
-![PXL_20250803_051036755.MP](/imgs/LEL_2025/PXL_20250803_051036755.MP.jpg)
-*PXL_20250803_051036755.MP*
 
 ![PXL_20250803_051044400](/imgs/LEL_2025/PXL_20250803_051044400.jpg)
 *PXL_20250803_051044400*
