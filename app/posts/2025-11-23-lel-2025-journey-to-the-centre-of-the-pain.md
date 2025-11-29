@@ -78,7 +78,7 @@ I changed so many things, too many things. Saddle height: 74.0 cm exactly, 2mm a
 
 By the time I landed in London, my knee swelled after twenty-minute walks. Twenty minutes. I was stressed, kind of sad, trapped in a cycle: change something, attempt to ride, get hurt, stress about it, rest, change something else, repeat until insane. In theory my bike fit issues were solved, barring last-minute adjustments. I put the bike together, torqued the bolts, checked the numbers. Ready, or not.
 
-# Fourth
+# Four
 
 Fifty-six kilometres after Louth came Boston. I was making reasonably good time, even passing some cyclists. Was the knee getting better? Could this actually work? Hope can be sometimes cruel when administered like that.
 
@@ -102,7 +102,7 @@ Registration day: complete party atmosphere. Riders everywhere assembling their 
 
 Rode back to my accommodation just before sunset. Still so much to do: routes to download, notes to take, food to pack, alarms to set, backup alarms to set in case the first alarms failed.
 
-# Fifth
+# Five
 
 Left Henham a bit after 2300. By then pain wasn't limited to my knee. My ass hurt badly, my hands ached, and my Achilles tendon competed with the knee for attention. It was getting painful just to be.
 
@@ -124,7 +124,7 @@ My once in a lifetime success story became a once in a lifetime failure story. I
 
 # Image gallery
 
-## One 
+## Gallery One
 
 ![PXL_20250802_144948824](/imgs/LEL_2025/PXL_20250802_144948824.jpg)
 *Riding to the registration in Writtle, look how hopeful (and painfree) I look.*
@@ -135,7 +135,7 @@ My once in a lifetime success story became a once in a lifetime failure story. I
 ![PXL_20250803_101745407](/imgs/LEL_2025/PXL_20250803_101745407.jpg)
 *Northstowe, the first control.*
 
-## Two
+## Gallery Two
 
 ![PXL_20250805_160907015](/imgs/LEL_2025/PXL_20250805_160907015.jpg)
 *Arriving at Hessle; the LEL team made an effort to make every arrival memorable.*
@@ -155,7 +155,7 @@ My once in a lifetime success story became a once in a lifetime failure story. I
 ![Humour](/imgs/LEL_2025/PXL_20250805_052328172.jpg)
 *LOL.*
 
-## Three
+## Gallery Three
 
 ![St.Mary's](/imgs/LEL_2025/PXL_20250805_100311250.jpg)
 *St. Mary's at South Dalton. It's round about here that my Odometer hit 350kms and I turned back south again. It was a beautiful place.*
@@ -169,11 +169,10 @@ My once in a lifetime success story became a once in a lifetime failure story. I
 ![Walk in Louth](/imgs/LEL_2025/PXL_20250805_195440596.jpg)
 *Walking home after the pub in Louth.*
 
-## Four
+## Gallery Four
 
 ![PXL_20250805_153922527.MP](/imgs/LEL_2025/PXL_20250805_153922527.MP.jpg)
 *Close to Louth in the Lincolnshire Wolds.*
-
 
 ![Oliver and myself riding in the Fens](/imgs/LEL_2025/PXL_20250806_150833422.jpg)
 *Oliver and myself riding in the Fens.*
@@ -181,7 +180,7 @@ My once in a lifetime success story became a once in a lifetime failure story. I
 ![PXL_20250807_113141547](/imgs/LEL_2025/PXL_20250807_113141547.jpg)
 *Team LEL without E at the finish line, boasting our medals.*
 
-## Five
+## Gallery Five
 
 ![PXL_20250807_010347558.MP](/imgs/LEL_2025/PXL_20250807_010347558.MP.jpg)
 *Getting close to Writtle cycling at night. Note the moon.*
