@@ -3,7 +3,7 @@ layout: post
 title:  "LEL 2025: Journey to the Centre of the... Pain"
 date:   2025-11-23 13:14:17 +0000
 categories: London Edinburgh London Audax Brevet LEL 2025
-description: placeholder
+description: Adventure on LEL 2025
 permalink: /lel_2025_journey_to_the_centre_of_the_pain/
 ---
 
@@ -15,29 +15,32 @@ LONDON 09.08.2025 — Foreign cyclist spends eighteen months and undisclosed sum
 
 All healthy riders are the same, but injured cyclists suffer in their own way. That's more or less what I was thinking when I was in the back of the peloton, watching riders that started after me pass with gleaming smiles and shiny kit. I had trained for a sub 100hr ride but was having to quite strictly pace myself to baby my knee.
 
-That first morning was beautiful. Departing from Writtle, early light, crisp air, smooth peloton, the rhythm of wheels and breath and the collective deranged hope that we'd all make it. The first control Northstowe loomed large in my imagination—what do you even do at a control? I had never done an Audax event. I arrived, fumbled through the logistics, ate something, went to get stuff from my bike like 6 times and left {comment on GI}. The knee felt squeamish but fine. Was this going to work?
+That first morning was beautiful. Departing from Writtle, early light, crisp air, smooth peloton, the rhythm of wheels and breath and the collective deranged hope that we'd all make it. The first control Northstowe loomed large in my imagination, what do you even do at a control? I had never done an Audax event. I arrived, fumbled through the logistics, ate something, went to get stuff from my bike like 6 times and left. The knee felt squeamish but fine. Was this going to work?
 
-The next control brought challenging riding, the Fens. Long, windy flats with bad pavement. The knee began its commentary. Someone—a rider whose name I never caught—suggested paracetamol. It worked, briefly. The Fens felt strange, flat and endless until a chaotic rain made everything feel epic. The subsequent cold settled into my knee like no intention of leaving.
+The next control brought challenging riding, the Fens. Long, windy flats with bad pavement to boot. The knee began its commentary. Someone suggested I take paracetamol pre-emptively. It worked. The Fens felt strange, flat and endless until a chaotic rain made everything feel epic. The subsequent cold brought pain that settled into my knee with no intention of leaving.
 
 By Boston I was hammered. It was clear my training had not been enough. Fifty kilometres to Louth stretched ahead like torture. I fiddled with the bike fit, added washers to pedals to widen my stance, anything to shift the pain somewhere else. It helped. The first abandoners started appearing, laying on the road silently. We exchanged words of encouragement.
 
 After resting outside a church I met Marianne, a French cyclist with a beautifully crafted bike and a pace slow enough that we could ride together and talk. Riding at night was beautiful, but the pain was now real. She was pacing carefully as well due to a heart condition. We matched speeds, traded fragments of our stories across the kilometres. Midnight at Hessle, both of us knackered, my pain debilitating. She asked to be woken up at 3am (you can do that at controls!) to catch her partner at Hessle in the morning. I ate everything available, including my first apple crumble and proceeded to sleep way too much.
 
-Next morning I took off slowly towards Hessle, realising I was catastrophically bad at control, bad at transitions, bad at eating efficiently, bad at leaving on time and today with a LOT of pain, also bad at route finding. To make matters worse had a flat on the way, and then it started to rain. I reached Hessle at around 1300hrs and was immediately told the event was held up due to storm Floris and we could not leave.
+Next morning I took off slowly towards Hessle, realising I was catastrophically bad at control, bad at transitions, bad at eating efficiently, bad at route finding, bad at leaving on time and today with a LOT of pain also bad at cycling. To make matters worse I had a flat on the way, and then it started to rain. I reached Hessle at around 1300hrs and was immediately told the event was held up due to storm Floris and we could not leave.
 
 I'd been thinking about Paris-Brest-Paris since 2015. Planned for it three times—2015, 2019, 2023—a trilogy of failure where dates and money never aligned, life intervened, the four-year cycle proving impossible to catch. By 2024 I realised I couldn't wait much longer (famous last words). LEL appeared like an answer: 1,500 kilometres, British countryside, no need to qualify in other brevets, 128 hours, next year. I pre-registered for a raffle to ride and was accepted.
 
-I rebuilt my entire bike for it, new everything, hand picked components, piece by expensive and hard to find piece. The SON nabendynamo hub alone cost an arm and a leg. I built the wheels around it myself. First wheelset ever. Velocity Dyad rims, DT Swiss double-butted spokes, brass nipples, the works. Spent months staring at the parts before gathering courage to do it. The wheels came out true. Technology would save me! These wheels and the lights attached to them would literally light my way. This was to be the Renaissance of my cycling, the golden age, the Jules Verne version of life where adventure is glorious and preparation prevents catastrophe. Freshly wrapped handlebars pointed north and eighteen months to get ready. What could possibly go wrong?
+I rebuilt my entire bike for it, new everything, hand picked components, piece by expensive and hard to find piece. The SON nabendynamo hub alone cost an arm and a leg. I built the wheels around the dynamo myself. First wheelset ever. Velocity Dyad rims, DT Swiss double-butted spokes, brass nipples, the works. Spent months staring at the parts before gathering courage to do it. The wheels came out true. Technology would save me! These wheels and the lights attached to them would literally light my way. This was to be the Renaissance of my cycling, the golden age, the Jules Verne version of life where adventure is glorious and preparation prevents catastrophe. Freshly wrapped handlebars pointed north and eighteen months to get ready. What could possibly go wrong?
 
 ![PXL_20250802_144948824](/imgs/LEL_2025/PXL_20250802_144948824.jpg)
 *Riding to the registration in Writtle, look how hopeful (and painfree) I look.*
 
 ![PXL_20250803_051036755.MP](/imgs/LEL_2025/PXL_20250803_051036755.MP.jpg)
-*Mid ride: same person, more pain.*
+*Mid-ride: same person, more pain.*
 
 # Two
 
 Hessle. Second day. Storm Floris had arrived with winds exceeding 100 km/h in some of the mountain passes on-route and the event was held. Four hours, they said. The time would be subtracted from our sheets. No problem. Great, even; enforced rest. The universe intervening on behalf of my knee. I slept and ate.
+
+![PXL_20250805_160907015](/imgs/LEL_2025/PXL_20250805_160907015.jpg)
+*Arriving at Hessle; the LEL team made an effort to make every arrival memorable.*
 
 Departure scheduled for 1530. Determined to learn from past control failures, I woke thirty minutes early, ate something, got my kit together. At 1530 I was at my bike, ready. Staff ushered us back inside. The control leader explained we could not leave yet. The wind was still too dangerous. Food was being rationed now. The word "rationed" hung in the air with unfortunate historical weight, rumours of chaos on the subsequent controls due to overcrowding were overheard. We were lucky at Hessle.
 
@@ -45,11 +48,20 @@ More sleep. I talked to the staff, volunteers and other Audax riders. Met Matt, 
 
 At 1930 came the next announcement. The few remaining optimists—myself included, because apparently I'd learned nothing, got our gear together again, checked tyre pressure, prepared to depart. We had a lot of time to make up for.
 
+<!-- ![PXL_20250804_183221149.MP](/imgs/LEL_2025/PXL_20250804_183221149.MP.jpg)
+*Team Hessle giving the announcement.* -->
+
 1930 and the announcement came. Event cancelled. Storm Floris had won. Tears were barely contained around the room, some riders had trained for years, some had come from other continents, all of us had spent months building hopes and bikes in equal measure. We could not even leave the control until morning. We were trapped with our now rationed apple crumble.
 
 The stakes were no more. LEL was over. Officially.
 
-The training had been escalating for eighteen months—each ride structurally more absurd than the last, each one a test of some new theory about my setup. I'd done the Goran Kropp cosplay: bike to Iztaccíhuatl, climb, bike back. Epic rides that were supposed to prove I could do epic things, which is precisely the kind of confidence that precedes disaster.
+![PXL_20250804_183334411](/imgs/LEL_2025/PXL_20250804_183334411.jpg)
+*Riders hearing about the cancellation at Hessle.*
+
+The training for LEL had been escalating for eighteen months,each ride structurally more absurd than the last, each one a test of some new theory about my setup. I'd done the Goran Kropp-esque ride: bike to Iztaccíhuatl, climb and bike back... on a cargo bike with improvised panniers made from old luggage! Epic rides that were supposed to prove I could do epic things, which is precisely the kind of confidence that precedes disaster.
+
+![Cargo_Bike](/imgs/LEL_2025/photo_2025-11-29 15.26.26.jpeg)
+*At 3,700m with Popocatépetl in the background.*
 
 My final training day was 400 kilometres around Lake Pátzcuaro. Five or six laps depending on route. I started at 5am, the day beautiful and promising. First lap: success. Ninety kilometres at 24.4 km/h average. At this rate I would finish early! I stopped, ate, drank, felt invincible. Technology and preparation were working exactly as planned. The wheels I'd built myself were spinning true. This was it.
 
@@ -59,15 +71,31 @@ Three-quarters through the lap I stopped at a pharmacy. Bought topical analgesic
 
 So I ate something, drank something, and with what seemed at the time like a cold head and rational judgment, decided to stop. Three weeks before LEL. The injury was a gift from the gods for my presumption. Seven years of dreaming about PBP, eighteen months preparing for LEL, and my body had chosen this exact moment to file its complaint.
 
+![Handmade signage](/imgs/LEL_2025/PXL_20250804_145546579.jpg)
+*Handmade signage after chaos of cancellation. A radically more laissez-faire approach ensued.*
+
+
+![Desolation #1](/imgs/LEL_2025/PXL_20250804_191259368.jpg)
+*Desolation in the afternoon after the cancellation.*
+
+![Humour](/imgs/LEL_2025/PXL_20250805_052328172.jpg)
+*LOL.*
+
 # Three
 
 Day three. Three hundred and ten kilometres in, after a kind of rest day. Officially I was supposed to cycle south, back to London, event cancelled, dream abandoned. Instead I decided to rebel against an event that no longer existed by going north. There's a particular kind of motivation that emerges when all rationality has evaporated. I rode north.
 
 The odometer read 350km by the time I reached roughly two-thirds of the way from Hessle to Malton—my planned turnaround point for a 700km total, approximately halfway to Edinburgh. Close enough to half. I considered going farther, alas my knee was not up to it. It was surreal watching other riders stream past in the opposite direction, all of us cycling our own private unsanctioned events, acknowledging each other with nods that meant "yes, this is insane, yes, we're doing it anyway."
 
+![St.Mary's](/imgs/LEL_2025/PXL_20250805_100311250.jpg)
+*St. Mary's at South Dalton. It's round about here that my Odometer hit 350kms and I turned back south again. It was a beautiful place.*
+
 The knee felt great at first. Nearly a full day of rest had worked its magic. But eighty kilometres in, now back in Hessle, confidence began its familiar erosion, some paracetamol was taken as a remedy. The pain wasn't dramatic, just persistent, a reminder that hope and reality operate on different timelines.
 
 Back through the Humber Bridge with high-speed winds threatening closure. I flew across before they could shut it down—small victories matter when larger ones have been cancelled. Ended the day at Louth again. Around 140 kilometres. The pattern was repeating: rest, hope, ride, regret?
+
+![Humber Bridge](/imgs/LEL_2025/PXL_20250805_133040420.MP.jpg)
+*The Humber bridge.*
 
 Food rationing continued because of the chaos. I escaped to find a local pub, because in the UK most things worth doing happen at or near a pub. There I met Paul, a fellow audax rider originally from Australia but now a Londoner. We made friends quickly, made plans to meet in London after the event that was no longer an event.
 
@@ -81,15 +109,21 @@ I changed so many things, too many things. Saddle height: 74.0 cm exactly, 2mm a
 
 By the time I landed in London, my knee swelled after twenty-minute walks. Twenty minutes. I was stressed, kind of sad, trapped in a cycle: change something, attempt to ride, get hurt, stress about it, rest, change something else, repeat until insane. In theory my bike fit issues were solved, barring last-minute adjustments. I put the bike together, torqued the bolts, checked the numbers. Ready, or not.
 
+
+![Paul, Paola and me](/imgs/LEL_2025/photo_2025-11-29 15.47.28.jpeg)
+*We did meet Paul after the event. Went out a couple of times and he was gracious enough to host us for a night before we left. Here he is with Paola and myself at the Borough Market.*
+
 # Fourth
 
 Fifty-six kilometres after Louth came Boston. I was making reasonably good time, even passing some cyclists. Was the knee getting better? Could this actually work? Hope can be sometimes cruel when administered like that.
 
-After Boston: the Fens. Somehow we had a headwind. Again. We'd had headwind cycling north, and now headwind cycling south. The laws of physics had suspended themselves specifically to torment LEL riders. The Fens made quick work of me: flat, endless, wind-swept.
+Around this time it started to dawn on me that I had most likely blundered my bike fit. Having had a lot of time on the bike to focus on how I felt and a lot of attention going to my knees and legs, I realised that after my initial injury,  I had probably over compensated for the height of my saddle and had thus been riding with a real high saddle for around 500kms (plus the latter part of the training). After mentally dealing with that and coming to terms with my mistake I lowered the saddle a lot. It felt better, but I was still injured.
 
-Soon I was overtaken by a group I'd recently passed: Shodhan on his minimal Bianchi Volpe, Daniel on his S-Works with mismatched wheels from a mid-race rim failure, Thomas and Oliver. Daniel kindly asked if I wanted to join their peloton and I didn't flinch. In the wind it makes an amazing difference to ride together, taking turns to ride lead and benefiting from the aerodynamic advantages when riding behind. We became a peloton of the abandoned, later baptised "Team LEL without E" (a reference to Floris in lieu of Edinburgh).
+After Boston: the Fens. Somehow we had a headwind. Again. We'd had headwind cycling north, and now headwind cycling south. The laws of physics had suspended themselves specifically to torment LEL riders. The Fens made quick work of me: flat, endless, wind-swept, I was slowing down.
 
-Together we reached Northstowe. It was some of the best riding I did. Teamwork great, I was genuinely happy.
+Soon I was overtaken by a group I'd recently passed in the peak of my optimism: Shodhan, Daniel, Thomas and Oliver. Daniel kindly asked if I wanted to join their peloton and I didn't flinch. In the wind it makes an amazing difference to ride together, taking turns to ride lead and benefiting from the aerodynamic advantages when riding behind. We became a peloton of the abandoned, later baptised "Team LEL without E" (a reference to Floris in lieu of Edinburgh).
+
+Together we reached Northstowe. It was some of the best riding I did. Teamwork was great, I was genuinely happy.
 
 We arrived at around 5pm. Most sensible people would stop, rest, eat un-rationed apple crumble, sleep and take it easy, since the event had been cut short anyway. However, I challenged myself to reach Writtle that night. I wanted an intense night ride. the drug of exhaustion that, at some stage makes you hallucinate, not joking btw. Sleep deprivation, glucose depletion, and monotony, a recipe for partially abandoning reality. It's quite enjoyable.
 
@@ -115,6 +149,9 @@ I reached Writtle around 0330. Empty control, bit chaotic. No food since the eve
 
 I still had five kilometres to my accommodation, under the circumstances they would take the best of me. Best get moving. A transformation is expected once this kind of trip ends, what was not expected is I'd arrived weirdly traumatised by the whole affair. Whatever the transformation, the reason or effect, like everything it must end. The roads, the lights, the people, it was over. Riders return.
 
+![Riders return](/imgs/LEL_2025/PXL_20250807_021956241.jpg)
+*At the finish line, 03:19hrs 7th August 2025.*
+
 Three months after the event came the final diagnosis—directly from an MRI, no ambiguity. Tear of the semimembranosus distal tendon. Minimal synovitis and paratenonitis consistent with overuse. The medical language was precise, clinical, definitive. I'd been cycling on a torn tendon for 700 kilometres. The body had been filing complaints; I'd been ignoring them in favour of apple crumble.
 
 With hindsight, it seems I had a combination of two things: an overuse injury and a tendon tear. The overuse injury was from eighteen months of training that escalated structurally until something broke. The tendon tear was what happened when I decided to ride anyway, when I kept going after LEL was cancelled, when I completed that final 250-kilometre night, barely able to pedal.
@@ -123,7 +160,33 @@ I've recently made the latter worse by continuing to work out in my very steep s
 
 My once in a lifetime success story became a once in a lifetime failure story. I got a medal but really DNF. I learnt what I'm willing to endure, and what that costs. The tear is still there, I can't ride, I'll lose a whole season and struggle to recover. The understanding of the cost is still forming. I'm already thinking of the next apple crumble. I will do it again, maybe succeed? If I fail I will do so in novel and fun ways.
 
-### Images
+# Images
+
+## One 
+
+![PXL_20250803_101745407](/imgs/LEL_2025/PXL_20250803_101745407.jpg)
+*Northstowe, the first control.*
+
+## Two
+
+## Three
+
+## Four
+
+![Oliver and myself riding in the Fens](/imgs/LEL_2025/PXL_20250806_150833422.jpg)
+*Oliver and myself riding in the Fens.*
+
+![PXL_20250807_113141547](/imgs/LEL_2025/PXL_20250807_113141547.jpg)
+*Team LEL without E at the finish line, boasting our medals.*
+
+## Five
+
+![PXL_20250807_010347558.MP](/imgs/LEL_2025/PXL_20250807_010347558.MP.jpg)
+*Getting close to Writtle cycling at night. Note the moon.*
+
+![PXL_20250807_015758594.NIGHT](/imgs/LEL_2025/PXL_20250807_015758594.NIGHT.jpg)
+*Arriving at Writtle in the middle of the night.*
+
 
 ![PXL_20250802_101504677](/imgs/LEL_2025/PXL_20250802_101504677.jpg)
 *PXL_20250802_101504677*
@@ -137,8 +200,7 @@ My once in a lifetime success story became a once in a lifetime failure story. I
 ![PXL_20250803_052400659](/imgs/LEL_2025/PXL_20250803_052400659.jpg)
 *PXL_20250803_052400659*
 
-![PXL_20250803_101745407](/imgs/LEL_2025/PXL_20250803_101745407.jpg)
-*PXL_20250803_101745407*
+
 
 ![PXL_20250803_140553834](/imgs/LEL_2025/PXL_20250803_140553834.jpg)
 *PXL_20250803_140553834*
@@ -146,26 +208,20 @@ My once in a lifetime success story became a once in a lifetime failure story. I
 ![PXL_20250803_210740298](/imgs/LEL_2025/PXL_20250803_210740298.jpg)
 *PXL_20250803_210740298*
 
-![PXL_20250804_145546579](/imgs/LEL_2025/PXL_20250804_145546579.jpg)
-*PXL_20250804_145546579*
 
-![PXL_20250804_183221149.MP](/imgs/LEL_2025/PXL_20250804_183221149.MP.jpg)
-*PXL_20250804_183221149.MP*
+
+
 
 ![PXL_20250804_183326171](/imgs/LEL_2025/PXL_20250804_183326171.jpg)
 *PXL_20250804_183326171*
 
-![PXL_20250804_183334411](/imgs/LEL_2025/PXL_20250804_183334411.jpg)
-*PXL_20250804_183334411*
 
-![PXL_20250804_191259368](/imgs/LEL_2025/PXL_20250804_191259368.jpg)
-*PXL_20250804_191259368*
+
 
 ![PXL_20250804_194539380](/imgs/LEL_2025/PXL_20250804_194539380.jpg)
 *PXL_20250804_194539380*
 
-![PXL_20250805_052328172](/imgs/LEL_2025/PXL_20250805_052328172.jpg)
-*PXL_20250805_052328172*
+
 
 ![PXL_20250805_063537616](/imgs/LEL_2025/PXL_20250805_063537616.jpg)
 *PXL_20250805_063537616*
@@ -179,11 +235,9 @@ My once in a lifetime success story became a once in a lifetime failure story. I
 ![PXL_20250805_083007528](/imgs/LEL_2025/PXL_20250805_083007528.jpg)
 *PXL_20250805_083007528*
 
-![PXL_20250805_100311250](/imgs/LEL_2025/PXL_20250805_100311250.jpg)
-*PXL_20250805_100311250*
 
-![PXL_20250805_133040420.MP](/imgs/LEL_2025/PXL_20250805_133040420.MP.jpg)
-*PXL_20250805_133040420.MP*
+
+
 
 ![PXL_20250805_133441485](/imgs/LEL_2025/PXL_20250805_133441485.jpg)
 *PXL_20250805_133441485*
@@ -191,8 +245,7 @@ My once in a lifetime success story became a once in a lifetime failure story. I
 ![PXL_20250805_153922527.MP](/imgs/LEL_2025/PXL_20250805_153922527.MP.jpg)
 *PXL_20250805_153922527.MP*
 
-![PXL_20250805_160907015](/imgs/LEL_2025/PXL_20250805_160907015.jpg)
-*PXL_20250805_160907015*
+
 
 ![PXL_20250805_195440596](/imgs/LEL_2025/PXL_20250805_195440596.jpg)
 *PXL_20250805_195440596*
@@ -203,8 +256,7 @@ My once in a lifetime success story became a once in a lifetime failure story. I
 ![PXL_20250806_080015124](/imgs/LEL_2025/PXL_20250806_080015124.jpg)
 *PXL_20250806_080015124*
 
-![PXL_20250806_150833422](/imgs/LEL_2025/PXL_20250806_150833422.jpg)
-*PXL_20250806_150833422*
+
 
 ![PXL_20250806_213021586.NIGHT](/imgs/LEL_2025/PXL_20250806_213021586.NIGHT.jpg)
 *PXL_20250806_213021586.NIGHT*
@@ -215,21 +267,15 @@ My once in a lifetime success story became a once in a lifetime failure story. I
 ![PXL_20250807_010344640](/imgs/LEL_2025/PXL_20250807_010344640.jpg)
 *PXL_20250807_010344640*
 
-![PXL_20250807_010347558.MP](/imgs/LEL_2025/PXL_20250807_010347558.MP.jpg)
-*PXL_20250807_010347558.MP*
 
-![PXL_20250807_015758594.NIGHT](/imgs/LEL_2025/PXL_20250807_015758594.NIGHT.jpg)
-*PXL_20250807_015758594.NIGHT*
+
 
 ![PXL_20250807_015837389](/imgs/LEL_2025/PXL_20250807_015837389.jpg)
 *PXL_20250807_015837389*
 
-![PXL_20250807_021956241](/imgs/LEL_2025/PXL_20250807_021956241.jpg)
-*PXL_20250807_021956241*
 
-![PXL_20250807_113141547](/imgs/LEL_2025/PXL_20250807_113141547.jpg)
-*PXL_20250807_113141547*
+
+
 
 ![PXL_20250807_144027252](/imgs/LEL_2025/PXL_20250807_144027252.jpg)
 *PXL_20250807_144027252*
-
