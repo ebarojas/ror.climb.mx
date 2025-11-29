@@ -11,6 +11,7 @@ permalink: /lel_2025_journey_to_the_centre_of_the_pain/
 
 LONDON 09.08.2025 — Foreign cyclist spends eighteen months and undisclosed sum preparing for 1,500km international endurance event, injures knee three weeks before departure, goes anyway. Inflicts additional injury on pride and self esteem. Condition worsens hourly until event organisers cancel ride mid-course due to Storm Floris. Rider cycles back completing 700km with what medical professionals would call "contraindicated joint function" and "poor decision-making skills". When asked why, rider cited intent to survey apple crumble at controls. Months later, knee remains injured. Prospects of recovery, dim.  Would do again. Apple crumbles rated at 7/10.
 
+<a id="chapter-one"></a>
 # One
 
 All healthy riders are the same, but injured cyclists suffer in their own way. That's more or less what I was thinking when I was in the back of the peloton, watching riders that started after me pass with gleaming smiles and shiny kit. I had trained for a sub 100hr ride but was having to quite strictly pace myself to baby my knee.
@@ -31,6 +32,7 @@ I rebuilt my entire bike for it, new everything, hand picked components, piece b
 
 [View photo gallery One.](#gallery-one)
 
+<a id="chapter-two"></a>
 # Two
 
 Hessle. Second day. Storm Floris had arrived with winds exceeding 100 km/h in some of the mountain passes on-route and the event was held. Four hours, they said. The time would be subtracted from our sheets. No problem. Great, even; enforced rest. The universe intervening on behalf of my knee. I slept and ate.
@@ -60,6 +62,7 @@ So I ate something, drank something, and with what seemed at the time like a col
 
 [View photo gallery Two.](#gallery-two)
 
+<a id="chapter-three"></a>
 # Three
 
 Day three. Three hundred and ten kilometres in, after a kind of rest day. Officially I was supposed to cycle south, back to London, event cancelled, dream abandoned. Instead I decided to rebel against an event that no longer existed by going north. There's a particular kind of motivation that emerges when all rationality has evaporated. I rode north.
@@ -84,6 +87,7 @@ By the time I landed in London, my knee swelled after twenty-minute walks. Twent
 
 [View photo gallery Three.](#gallery-three)
 
+<a id="chapter-four"></a>
 # Four
 
 Fifty-six kilometres after Louth came Boston. I was making reasonably good time, even passing some cyclists. Was the knee getting better? Could this actually work? Hope can be sometimes cruel when administered like that.
@@ -110,6 +114,7 @@ Rode back to my accommodation just before sunset. Still so much to do: routes to
 
 [View photo gallery Four.](#gallery-four)
 
+<a id="chapter-five"></a>
 # Five
 
 Left Henham a bit after 2300. By then pain wasn't limited to my knee. My ass hurt badly, my hands ached, and my Achilles tendon competed with the knee for attention. It was getting painful just to be.
@@ -146,6 +151,8 @@ My once in a lifetime success story became a once in a lifetime failure story. I
 ![PXL_20250803_101745407](/imgs/LEL_2025/PXL_20250803_101745407.jpg)
 *Northstowe, the first control.*
 
+[Continue to Chapter Two.](#chapter-two)
+
 <a id="gallery-two"></a>
 ## Gallery Two
 
@@ -167,6 +174,8 @@ My once in a lifetime success story became a once in a lifetime failure story. I
 ![Humour](/imgs/LEL_2025/PXL_20250805_052328172.jpg)
 *LOL.*
 
+[Continue to Chapter Three.](#chapter-three)
+
 <a id="gallery-three"></a>
 ## Gallery Three
 
@@ -182,6 +191,8 @@ My once in a lifetime success story became a once in a lifetime failure story. I
 ![Walk in Louth](/imgs/LEL_2025/PXL_20250805_195440596.jpg)
 *Walking home after the pub in Louth.*
 
+[Continue to Chapter Four.](#chapter-four)
+
 <a id="gallery-four"></a>
 ## Gallery Four
 
@@ -193,6 +204,8 @@ My once in a lifetime success story became a once in a lifetime failure story. I
 
 ![PXL_20250807_113141547](/imgs/LEL_2025/PXL_20250807_113141547.jpg)
 *Team LEL without E at the finish line, boasting our medals.*
+
+[Continue to Chapter Five.](#chapter-five)
 
 <a id="gallery-five"></a>
 ## Gallery Five
@@ -294,3 +307,18 @@ My once in a lifetime success story became a once in a lifetime failure story. I
 
 ![PXL_20250807_144027252](/imgs/LEL_2025/PXL_20250807_144027252.jpg)
 *PXL_20250807_144027252* -->
+
+---
+
+**Copyright © 2025 Everardo J. Barojas.** All rights reserved.
+
+**License:** This work is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+
+- **Attribution** — You must give appropriate credit to Everardo J. Barojas and wwwww.climb.mx (with a link to the original post), provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
