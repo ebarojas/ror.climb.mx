@@ -29,6 +29,8 @@ I'd been thinking about Paris-Brest-Paris since 2015. Planned for it three times
 
 I rebuilt my entire bike for it, new everything, hand picked components, piece by expensive and hard to find piece. The SON nabendynamo hub alone cost an arm and a leg. I built the wheels around the dynamo myself. First wheelset ever. Velocity Dyad rims, DT Swiss double-butted spokes, brass nipples, the works. Spent months staring at the parts before gathering courage to do it. The wheels came out true. Technology would save me! These wheels and the lights attached to them would literally light my way. This was to be the Renaissance of my cycling, the golden age, the Jules Verne version of life where adventure is glorious and preparation prevents catastrophe. Freshly wrapped handlebars pointed north and eighteen months to get ready. What could possibly go wrong?
 
+[View photo gallery One.](#gallery-one)
+
 # Two
 
 Hessle. Second day. Storm Floris had arrived with winds exceeding 100 km/h in some of the mountain passes on-route and the event was held. Four hours, they said. The time would be subtracted from our sheets. No problem. Great, even; enforced rest. The universe intervening on behalf of my knee. I slept and ate.
@@ -56,6 +58,8 @@ Three-quarters through the lap I stopped at a pharmacy. Bought topical analgesic
 
 So I ate something, drank something, and with what seemed at the time like a cold head and rational judgment, decided to stop. Three weeks before LEL. The injury was a gift from the gods for my presumption. Seven years of dreaming about PBP, eighteen months preparing for LEL, and my body had chosen this exact moment to file its complaint.
 
+[View photo gallery Two.](#gallery-two)
+
 # Three
 
 Day three. Three hundred and ten kilometres in, after a kind of rest day. Officially I was supposed to cycle south, back to London, event cancelled, dream abandoned. Instead I decided to rebel against an event that no longer existed by going north. There's a particular kind of motivation that emerges when all rationality has evaporated. I rode north.
@@ -77,6 +81,8 @@ I discovered one of my legs is functionally shorter than the other. My left foot
 I changed so many things, too many things. Saddle height: 74.0 cm exactly, 2mm adjustments and 1 hr riding to test. Right-cleat shim: +2 mm. Cleat angle: heel-in 1°. I kept a blue notebook filled with numbers that promised control. Inseam measurements, torque specs, hip rock angles under three millimetres, knee tracking over the second toe. Each adjustment was necessary. Each adjustment was futile. Next day it would start again.
 
 By the time I landed in London, my knee swelled after twenty-minute walks. Twenty minutes. I was stressed, kind of sad, trapped in a cycle: change something, attempt to ride, get hurt, stress about it, rest, change something else, repeat until insane. In theory my bike fit issues were solved, barring last-minute adjustments. I put the bike together, torqued the bolts, checked the numbers. Ready, or not.
+
+[View photo gallery Three.](#gallery-three)
 
 # Four
 
@@ -102,6 +108,8 @@ Registration day: complete party atmosphere. Riders everywhere assembling their 
 
 Rode back to my accommodation just before sunset. Still so much to do: routes to download, notes to take, food to pack, alarms to set, backup alarms to set in case the first alarms failed.
 
+[View photo gallery Four.](#gallery-four)
+
 # Five
 
 Left Henham a bit after 2300. By then pain wasn't limited to my knee. My ass hurt badly, my hands ached, and my Achilles tendon competed with the knee for attention. It was getting painful just to be.
@@ -122,8 +130,11 @@ I've recently made the latter worse by continuing to work out in my very steep s
 
 My once in a lifetime success story became a once in a lifetime failure story. I got a medal but really DNF. I learnt what I'm willing to endure, and what that costs. The tear is still there, I can't ride, I'll lose a whole season and struggle to recover. The understanding of the cost is still forming. I'm already thinking of the next apple crumble. I will do it again, maybe succeed? If I fail I will do so in novel and fun ways.
 
+[View photo gallery Five.](#gallery-five)
+
 # Image gallery
 
+<a id="gallery-one"></a>
 ## Gallery One
 
 ![PXL_20250802_144948824](/imgs/LEL_2025/PXL_20250802_144948824.jpg)
@@ -135,6 +146,7 @@ My once in a lifetime success story became a once in a lifetime failure story. I
 ![PXL_20250803_101745407](/imgs/LEL_2025/PXL_20250803_101745407.jpg)
 *Northstowe, the first control.*
 
+<a id="gallery-two"></a>
 ## Gallery Two
 
 ![PXL_20250805_160907015](/imgs/LEL_2025/PXL_20250805_160907015.jpg)
@@ -155,6 +167,7 @@ My once in a lifetime success story became a once in a lifetime failure story. I
 ![Humour](/imgs/LEL_2025/PXL_20250805_052328172.jpg)
 *LOL.*
 
+<a id="gallery-three"></a>
 ## Gallery Three
 
 ![St.Mary's](/imgs/LEL_2025/PXL_20250805_100311250.jpg)
@@ -169,6 +182,7 @@ My once in a lifetime success story became a once in a lifetime failure story. I
 ![Walk in Louth](/imgs/LEL_2025/PXL_20250805_195440596.jpg)
 *Walking home after the pub in Louth.*
 
+<a id="gallery-four"></a>
 ## Gallery Four
 
 ![PXL_20250805_153922527.MP](/imgs/LEL_2025/PXL_20250805_153922527.MP.jpg)
@@ -180,6 +194,7 @@ My once in a lifetime success story became a once in a lifetime failure story. I
 ![PXL_20250807_113141547](/imgs/LEL_2025/PXL_20250807_113141547.jpg)
 *Team LEL without E at the finish line, boasting our medals.*
 
+<a id="gallery-five"></a>
 ## Gallery Five
 
 ![PXL_20250807_010347558.MP](/imgs/LEL_2025/PXL_20250807_010347558.MP.jpg)
