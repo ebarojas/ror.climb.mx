@@ -93,8 +93,3 @@ The injured endurance story. Joe Simpson breaks his leg catastrophically on Siul
 
 **V. Nanga Parbat - Messner**
 Reinhold Messner and his brother Günther attempt Nanga Parbat (Naked Mountain) in 1970. They summit via an impossible route, descend a different face, Günther dies in an avalanche, Reinhold barely survives—loses seven toes to frostbite, hallucinates, crawls for days. Returns transformed, traumatized, controversial (accused of abandoning his brother). Spends decades defending the climb. Forever marked by that mountain. The LEL cancellation, your 250km final night arriving at 3am barely able to pedal, the fellowship in the Fens, forced rest at home. You returned but you're not the same. Forever wearing the ring—knee brace and stories. (The joke about Messner: when he returned barely alive, his best friend's wife nursed him back to health—he later married her. "Luckily my best friend's wife didn't look after me or I might have remarried.")
-
-Notes and todos:
-- Pictures and images from Goran Kropp Izta
-- Talk about overcompensation on saddle height
-
