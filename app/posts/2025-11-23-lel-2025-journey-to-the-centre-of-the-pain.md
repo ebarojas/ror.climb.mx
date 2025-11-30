@@ -58,7 +58,7 @@ Second lap began with a slight uneasiness in my right leg. Slight. Barely worth 
 
 Three-quarters through the second lap I stopped at a pharmacy. Bought topical analgesic and paracetamol. Applied both. The pain wasn't crazy bad, I could still pedal, still maintain pace, still finish the lap. By kilometre 170 it was clear I was risking the entire event if I continued. The calculation was simple: stop now, maybe recover in time. Continue, definitely don't.
 
-So I ate something, drank something, and with what seemed at the time like a cold head and rational judgment, decided to stop. Three weeks before LEL. The injury was a challenge from the gods of cycling for my presumption. Seven years of dreaming about PBP, eighteen months preparing for LEL, and my body had chosen this exact moment to file its complaint.
+So I ate something, drank something, and with what seemed at the time like a cold head and rational judgment, decided to stop. Three weeks before LEL. The injury was a challenge from the gods of cycling for my presumption. Ten years of dreaming about PBP, eighteen months preparing for LEL, and my body had chosen this exact moment to file its complaint.
 
 [View photo gallery Two.](#gallery-two)
 
