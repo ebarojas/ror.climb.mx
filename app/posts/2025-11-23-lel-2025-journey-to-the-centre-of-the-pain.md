@@ -90,11 +90,11 @@ By the time I landed in London my knee was swelling up after twenty-minute walks
 <a id="chapter-four"></a>
 # Four
 
-Fifty-six kilometres after Louth came Boston. I was making reasonably good time, even passing some cyclists. Was the knee getting better? Could this actually work? Hope can be sometimes cruel when administered like that.
+Fifty-six kilometres after Louth came Boston. I was making reasonably good time, even passing some cyclists. Was the knee getting better? Could this actually work? Hope can be sometimes cruel when administered like that, as I was about to find out.
 
-Around this time a charming little realisation started to creep in: I had most likely blundered my bike fit. After a lot of time on the bike I was slowly coming to the conclusion that my saddle was too high. It felt obvious then that my right leg was stretched out on each pedal stroke, my toes having to compensate by pointing downward, only on the right leg though, body assymmetry at work.
+Around this time a charming little realisation started to creep in and ground my elation: I had most likely blundered my bike fit. These long stretches on the bike had made me slowly come to the conclusion that my saddle was too high. It felt obvious then that my right leg was stretched out on each pedal stroke, my toes having to compensate by pointing downward. Only on the right leg though, body assymmetry and all.
 
-It hit me like a gut punch - after the initial injury I must have over compensated. I had been over stretching my leg again and again, thuosands of times, 500kms worth of it, plus the last stretch of my training. Coming to terms with that was brutal, if I ever actually did. I passive-aggressively lowered the saddle and sure, it felt better, but there was no escaping the fact that I was still injured.
+It hit me like a gut punch - after the initial injury I must have compensated too much. I had been over stretching my leg again and again, thuosands of times, 500kms worth of it plus the last bit of my training. Coming to terms with that was brutal. I proceded to passive-aggressively lower the saddle and sure, it felt better, but there was no escaping the fact that I was still injured.
 
 After Boston: the Fens. Somehow we had a headwind. Again. We'd had headwind cycling north, and now headwind cycling south. The laws of nature had suspended themselves specifically to torment LEL riders. The wind on the Fens made quick work of me: flat, endless, wind-swept, I was slowing down.
 
@@ -129,11 +129,11 @@ I reached Writtle around 0320hrs. Empty control, bit chaotic. No food since the 
 
 I was not in a hurry for this moment to end but I still had five kilometres to get to my accommodation and under the circumstances it would take the best of me and real effort to get there. Better get moving. A transformation is expected once this kind of trip ends, what was not expected is I'd arrived weirdly traumatised by the whole affair. No time to enjoy my transformed self or have a Jungian dive into the trauma, the event must end, no escaping, no loitering. The roads, the lights, the bikes, my brothers and sisters suffering together, it was over. Riders return.
 
-Three months after the event came the final diagnosis—directly from an MRI, no ambiguity. Tear of the semimembranosus distal tendon. Minimal synovitis and paratenonitis consistent with overuse. The medical language was precise, clinical, definitive. I'd been cycling on a torn tendon for 700 kilometres. My body had been shouting; I'd been muffling the screams with apple crumble.
+Three months after the event came the final diagnosis directly from an MRI, no ambiguity. Tear of the semimembranosus distal tendon. Minimal synovitis and paratenonitis consistent with overuse. The medical language was precise, clinical, definitive. I'd been cycling on a torn tendon for 700 kilometres. My body had been shouting; I'd been muffling the screams with apple crumble.
 
-With hindsight, it seems I had a combination of two things: an overuse injury and a tendon tear. The overuse injury was from eighteen months of training that escalated structurally until something broke. The tendon tear was what happened when I decided to ride anyway, when I kept going after LEL was cancelled, when I completed that final 250-kilometre night, barely able to pedal.
+With hindsight, it seems I had a combination of two things: an overuse injury and a tendon tear. The overuse injury was from eighteen months of training that escalated structurally until something broke. The tendon tear was what happened when I decided to ride with a high saddle anyway, when I kept going after LEL was cancelled, when I completed that final 250-kilometre night, barely able to pedal.
 
-I've recently made the latter worse by continuing to work out in my very steep surroundings at home. Because apparently the lesson wasn't clear enough the first time. Because the transformation doesn't mean fixed, just different.
+I even managed to make the tear worse after the event by going for a muddy, rocky and unstable run in my very steep surroundings. Because apparently the lesson wasn't clear enough the first time. Because the transformation doesn't mean fixed, just different.
 
 My once in a lifetime success story became a once in a lifetime failure story. I got a medal but really did not finish. I learnt what I'm willing to endure, and what that costs. The tear is still there, I can't ride, I'll lose a whole season and struggle to recover. The understanding of the cost is still forming in my mind. I'm already thinking of the next apple crumble. I will do it again, maybe succeed? If I fail I will do so in novel and fun ways.
 
