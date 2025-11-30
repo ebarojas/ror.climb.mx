@@ -70,6 +70,19 @@ module SeoHelper
     canonical_url(custom_url)
   end
 
+  # Generate Open Graph image URL
+  #
+  # Returns the full URL to the site icon for social media sharing.
+  # Uses icon.png as the default Open Graph image for all pages.
+  #
+  # @return [String] Full URL to the Open Graph image
+  #
+  # Example:
+  #   og_image_url # => "https://wwwww.climb.mx/icon.png"
+  def og_image_url
+    "#{base_url}/icon.png"
+  end
+
   # Generate JSON-LD Article schema for blog posts
   #
   # Creates structured data following Schema.org Article specification.
