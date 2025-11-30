@@ -25,4 +25,3 @@ class SitemapController < ApplicationController
     # Helper methods are automatically available in views, so base_url can be called directly
   end
 end
-

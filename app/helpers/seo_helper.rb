@@ -126,4 +126,3 @@ module SeoHelper
     }.to_json.html_safe
   end
 end
-
