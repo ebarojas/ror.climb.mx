@@ -18,4 +18,7 @@ Disallow: /admin/
 Disallow: /drafts/
 
 # Sitemap
-Sitemap: https://www.climb.mx/sitemap.xml
+# The sitemap tells search engines where to find all pages on the site.
+# This helps search engines discover and index blog posts automatically.
+# The sitemap is dynamically generated at /sitemap.xml
+Sitemap: https://wwwww.climb.mx/sitemap.xml

@@ -1,7 +1,32 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <title><%= @post.title %> - climb.mx</title>
+  
+  <!-- SEO Meta Tags -->
+  <!-- Meta description: Used by search engines for search result snippets -->
+  <!-- Falls back to truncated content if description not in frontmatter -->
+  <meta charset="utf-8">
+  <meta name="description" content="<%= meta_description(@post) %>">
+  <meta name="author" content="<%= @post.author %>">
+  
+  <!-- Canonical URL: Prevents duplicate content issues by specifying the "official" URL -->
+  <link rel="canonical" href="<%= canonical_url %>">
+  
+  <!-- Open Graph Tags: Used by social media platforms (Facebook, Twitter, LinkedIn, etc.) -->
+  <!-- These tags control how links appear when shared on social media -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="<%= @post.title %>">
+  <meta property="og:description" content="<%= meta_description(@post) %>">
+  <meta property="og:url" content="<%= og_url %>">
+  
+  <!-- JSON-LD Structured Data: Helps search engines and LLMs understand content -->
+  <!-- Following Schema.org Article specification for better attribution -->
+  <!-- Used by ChatGPT, Claude, Perplexity, and other AI systems for proper content attribution -->
+  <script type="application/ld+json">
+  <%= article_json_ld(@post) %>
+  </script>
+  
   <style>
     body {
       font-family: "Courier New", monospace;

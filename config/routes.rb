@@ -24,6 +24,11 @@ Rails.application.routes.draw do
   # Blog routes
   resources :posts, only: [ :index, :show ]
 
+  # Dynamic sitemap for search engines
+  # Generates XML sitemap following sitemap.org protocol
+  # Accessible at /sitemap.xml
+  get "sitemap.xml", to: "sitemap#index", defaults: { format: :xml }
+
   # Subscriber routes
   resources :subscribers, only: [ :create ]
   get "subscribers/confirm/:token", to: "subscribers#confirm", as: :confirm_subscriber

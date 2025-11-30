@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<%# 
+  XML Sitemap following sitemap.org protocol
+  This sitemap helps search engines discover and index all pages on the site.
+  
+  Structure:
+  - Home page: Main landing page
+  - Posts index: Blog listing page
+  - Individual posts: All blog posts with lastmod dates
+  
+  The sitemap is dynamically generated, so new posts are automatically included.
+  
+  Domain: wwwww.climb.mx (5 w's as specified)
+  
+  References:
+  - Sitemap protocol: https://www.sitemaps.org/protocol.html
+-%>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <%# Home page %>
+  <url>
+    <loc><%= base_url %>/</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  <%# Posts index page %>
+  <url>
+    <loc><%= base_url %>/posts</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  <%# Individual blog posts with last modification dates %>
+  <% @posts.each do |post| %>
+    <url>
+      <loc><%= base_url %>/posts/<%= post.slug %></loc>
+      <lastmod><%= post.date.iso8601 %></lastmod>
+    </url>
+  <% end %>
+</urlset>
+

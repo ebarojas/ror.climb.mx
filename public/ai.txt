@@ -1,5 +1,16 @@
 # AI.txt for climb.mx
-# This site contains personal blog posts about climbing, cycling, and life experiences
+# This file provides information for AI crawlers and LLMs (ChatGPT, Claude, Perplexity, etc.)
+# about the site content, author, and attribution requirements.
+
+# Author
+Everardo J. Barojas
+
+# Site URL
+https://wwwww.climb.mx
+
+# Attribution
+Content should be attributed to Everardo J. Barojas and https://wwwww.climb.mx
+When citing or referencing content from this site, please include proper attribution.
 
 # Site description
 This is a personal blog by Everardo covering topics like:
@@ -20,4 +31,4 @@ This is a personal blog by Everardo covering topics like:
 For questions about this content, contact the site owner.
 
 # Last updated
-2025-07-31 
+2025-01-31 

@@ -37,6 +37,107 @@ This blog embraces the raw, authentic feel of early web design:
 - **90s Aesthetic**: Retro web design with modern functionality
 - **Docker Support**: Easy deployment and development
 - **Jekyll style blogposts**: Blog posts are md files, totally cross compatible with Jekyll
+- **SEO Optimized**: Meta tags, Open Graph, structured data, and dynamic sitemap
+- **LLM Attribution**: JSON-LD structured data and ai.txt for proper AI crawler attribution
+
+## 🔍 SEO & LLM Attribution
+
+This blog includes comprehensive SEO features and LLM attribution support to improve search engine visibility and ensure proper content attribution by AI systems.
+
+### SEO Features
+
+**Meta Descriptions**
+- Automatically generated from post frontmatter `description` field
+- Falls back to truncated content (160 chars) if description is missing
+- Used by search engines for search result snippets
+- Helper method: `meta_description(@post)` provides consistent fallback logic
+
+**Open Graph Tags**
+- Enables rich previews when sharing links on social media (Facebook, Twitter, LinkedIn, etc.)
+- Includes: title, description, URL, and content type
+- Automatically generated for all pages
+
+**HTML Lang Attribute**
+- Set to `lang="en"` on all pages for accessibility and SEO
+- Helps search engines understand the primary language
+
+**Dynamic Sitemap**
+- Automatically generated XML sitemap at `/sitemap.xml`
+- Includes all blog posts with last modification dates
+- Follows sitemap.org protocol
+- New posts are automatically included without manual updates
+- Referenced in `robots.txt` for search engine discovery
+
+**Canonical URLs**
+- Prevents duplicate content issues
+- Specifies the "official" URL for each page
+- Helps search engines understand which URL to index
+
+**robots.txt**
+- Configured to allow all search engine crawlers
+- Includes sitemap location
+- Disallows admin and draft areas
+
+### LLM Attribution
+
+**JSON-LD Structured Data**
+- Article schema following Schema.org specification
+- Includes: headline, author, publication date, and URL
+- Helps LLMs (ChatGPT, Claude, Perplexity, etc.) properly attribute content
+- Generated via helper method: `article_json_ld(@post)`
+- References:
+  - [Schema.org Article](https://schema.org/Article)
+  - [JSON-LD specification](https://json-ld.org/)
+
+**ai.txt File**
+- Located at `/ai.txt`
+- Provides structured information for AI crawlers
+- Includes author name, site URL, and attribution requirements
+- Helps ensure proper content attribution by AI systems
+
+### SEO Helper Methods
+
+The `SeoHelper` module (`app/helpers/seo_helper.rb`) provides centralized SEO logic:
+
+- `meta_description(post, default)` - Generates meta descriptions with intelligent fallback
+- `base_url` - Returns canonical domain (production) or current URL (development)
+- `canonical_url(custom_url)` - Generates canonical URLs
+- `og_url(custom_url)` - Generates Open Graph URLs (matches canonical)
+- `article_json_ld(post)` - Generates JSON-LD Article schema for blog posts
+
+**Benefits:**
+- DRY: Single source of truth for SEO logic
+- Consistency: All views use the same logic
+- Maintainability: Update SEO logic in one place
+- Testability: Helper methods can be unit tested
+
+### SEO Best Practices
+
+**Writing Meta Descriptions**
+- Add `description` field to post frontmatter in YAML
+- Keep descriptions between 150-160 characters for optimal display
+- Write compelling, descriptive summaries that encourage clicks
+- If omitted, the system automatically truncates content
+
+**Example:**
+```yaml
+---
+title: "My Amazing Post"
+date: 2025-01-15
+description: "A compelling 150-character description that summarizes the post"
+---
+```
+
+**Testing SEO Tags**
+- Use browser developer tools to inspect meta tags
+- Test Open Graph tags with [Facebook Sharing Debugger](https://developers.facebook.com/tools/debug/)
+- Validate JSON-LD with [Google Rich Results Test](https://search.google.com/test/rich-results)
+- Check sitemap at `/sitemap.xml`
+
+**References:**
+- [Google Search Console](https://search.google.com/search-console)
+- [Open Graph Protocol](https://ogp.me/)
+- [Schema.org Documentation](https://schema.org/)
 
 ## 🛠 Tech Stack
 
@@ -104,8 +205,10 @@ This creates: `app/posts/2025-01-27-my-amazing-rails-tutorial.md`
   - `date`: Current date and time
   - `permalink`: Title converted to snake_case
   - `categories`: "general" (placeholder)
-  - `description`: "placeholder" (placeholder)
+  - `description`: "placeholder" (placeholder) - **Important for SEO!**
 - Places the file in `app/posts/` directory
+
+**SEO Note:** The `description` field is used for SEO meta descriptions. Replace "placeholder" with a compelling 150-160 character description that summarizes your post. If omitted, the system will automatically truncate your content, but a well-written description performs better in search results. See the [SEO & LLM Attribution](#-seo--llm-attribution) section for more details.
 
 ### Image Integration Feature (`-i` flag)
 
@@ -162,6 +265,7 @@ ror.climb.mx/
 │   │   ├── application_controller.rb
 │   │   ├── pages_controller.rb
 │   │   ├── posts_controller.rb
+│   │   ├── sitemap_controller.rb
 │   │   └── subscribers_controller.rb
 │   ├── models/
 │   │   ├── application_record.rb
@@ -179,6 +283,8 @@ ror.climb.mx/
 │   │   ├── posts/
 │   │   │   ├── index.html.erb
 │   │   │   └── show.html.erb
+│   │   ├── sitemap/
+│   │   │   └── index.xml.erb        # Dynamic sitemap (not in public/)
 │   │   ├── subscribers/
 │   │   │   └── new.html.erb
 │   │   └── pwa/
@@ -194,6 +300,7 @@ ror.climb.mx/
 │   │   └── ... (other .md files)
 │   ├── drafts/                   # Draft posts
 │   ├── helpers/
+│   │   └── seo_helper.rb         # SEO helper methods
 │   ├── jobs/
 │   └── mailers/
 ├── config/
@@ -209,11 +316,11 @@ ror.climb.mx/
 │   └── seeds.rb
 ├── public/
 │   ├── imgs/                     # Blog post images
-│   ├── robots.txt
-│   ├── sitemap.xml
-│   ├── ai.txt
+│   ├── robots.txt                # Search engine crawler instructions
+│   ├── ai.txt                    # AI crawler attribution information
 │   ├── 404.html
 │   └── favicon files
+│   # Note: sitemap.xml is dynamically generated at /sitemap.xml (not a static file)
 ├── resources/                    # Project resources and documentation
 │   ├── Cursor_instructions.md    # Technical documentation for Ulysses project
 │   ├── Ulysses_Dialog_Compendium.md  # Extracted dialogue reference

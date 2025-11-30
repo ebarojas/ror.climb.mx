@@ -1,7 +1,18 @@
 class Post
   include ActiveModel::Model
 
-  attr_accessor :title, :date, :author, :categories, :tags, :excerpt, :content, :slug, :filename
+  # Post attributes parsed from markdown frontmatter
+  # - title: Post title (from frontmatter or generated from filename)
+  # - date: Publication date (from frontmatter or parsed from filename)
+  # - author: Author name (defaults to "Everardo")
+  # - categories: Array of category tags
+  # - tags: Array of tag strings
+  # - excerpt: Short excerpt for previews
+  # - description: SEO meta description (from frontmatter, used for meta tags)
+  # - content: Full markdown content
+  # - slug: URL-friendly identifier
+  # - filename: Original markdown filename
+  attr_accessor :title, :date, :author, :categories, :tags, :excerpt, :description, :content, :slug, :filename
 
   def self.markdown_renderer
     @markdown_renderer ||= Redcarpet::Markdown.new(
@@ -65,6 +76,7 @@ class Post
       categories: Array(front_matter["categories"] || []),
       tags: Array(front_matter["tags"] || []),
       excerpt: front_matter["excerpt"] || "",
+      description: front_matter["description"] || "", # SEO meta description from frontmatter
       content: markdown_content,
       slug: slug.parameterize,
       filename: filename
