@@ -52,7 +52,7 @@ The stakes were no more. LEL was over. Officially.
 
 The training for LEL had been escalating for eighteen months, each ride structurally more absurd than the last, each one a test of some new theory about my setup. I'd done the Goran Kropp-esque ride: bike to Iztaccíhuatl, climb and bike back, more than 3,000 m of climbing on around 200kms... on a cargo bike carrying mountaineering gear with improvised panniers made from old luggage! Epic rides that were supposed to prepare me for epic things, which is precisely the kind of craziness I thought was needed.
 
-My final training challenge were 4-to-600 kilometres around Lake Pátzcuaro. Five or six laps depending on route. I started at 5am, the day crisp and promising. First lap: success. Ninety kilometres at 24.4 km/h average. At this rate I would finish early! I stopped, ate, drank, felt invincible. Technology and preparation were working exactly as planned. The wheels I'd built myself were spinning true. This was it.
+My final training challenge were 400 kilometres around Lake Pátzcuaro. Six laps or so depending on route. I started at 5am, the day crisp and promising. First lap: success. Ninety kilometres at 24.4 km/h average. At this rate I would finish early! I stopped, ate, drank, felt invincible. Technology and preparation were working exactly as planned. The wheels I'd built myself were spinning true. This was it.
 
 Second lap began with a slight uneasiness in my right leg. Slight. Barely worth mentioning. When it didn't stop, I frantically checked bike fit—the saddle appeared too low, obviously, that had to be it. I corrected it, measured, remeasured, kept going. The pain didn't leave. It evolved. I kept riding anyway because how could I stop?
 
