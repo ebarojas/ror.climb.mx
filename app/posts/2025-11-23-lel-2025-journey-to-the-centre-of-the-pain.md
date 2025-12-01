@@ -98,7 +98,7 @@ It hit me like a gut punch - after the initial injury I must have compensated to
 
 After Boston: the Fens. Somehow we had a headwind. Again. We'd had headwind cycling north, and now headwind cycling south. The laws of nature had suspended themselves specifically to torment LEL riders. The wind on the Fens made quick work of me: flat, endless, wind-swept, I was slowing down.
 
-On one of the fens I was overtaken by a group I'd passed in the peak of my optimism: Shodhan, Daniel, Thomas and Oliver. Daniel kindly asked if I wanted to join their peloton and I didn't flinch. In the wind it makes an amazing difference to ride together, taking turns to break the wind and benefiting from the aerodynamic advantages when riding behind. We became a peloton of the abandoned, later baptised "Team LEL without E" (a reference to Floris in lieu of Edinburgh).
+On one of the fens I was overtaken by a group I'd passed in the peak of my optimism: Shodhan, Daniel, Thomas and Oliver. Daniel kindly asked if I wanted to join their peloton and I didn't flinch. In the wind it makes an amazing difference to ride together, taking turns to break the wind and benefiting from the aerodynamic advantages when riding behind. We became a cohesive peloton, later baptised "Team LEL without E" (a reference to Floris in lieu of Edinburgh).
 
 Together we reached Northstowe. It was some of the best riding I did. Teamwork was great, I was genuinely happy.
 
